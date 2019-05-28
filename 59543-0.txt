@@ -1,0 +1,3417 @@
+﻿The Project Gutenberg EBook of How to Use a Galvanic Battery in Medicine
+and Surgery, by Herbert Tibbits
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: How to Use a Galvanic Battery in Medicine and Surgery
+       A Discourse Delivered Before the Hunterian Society, Third Edition
+
+Author: Herbert Tibbits
+
+Release Date: May 18, 2019 [EBook #59543]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GALVANIC BATTERY ***
+
+
+
+
+Produced by deaurider, Craig Kirkwood, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive.)
+
+
+
+
+
+
+Transcriber’s Notes:
+
+Text enclosed by underscores is in italics (_italics_), and text
+enclosed by equal signs is in bold (=bold=).
+
+Sidenotes are identified as: [SN: text of sidenote].
+
+Additional Transcriber’s Notes are at the end.
+
+       *       *       *       *       *
+
+HOW TO USE A GALVANIC BATTERY IN MEDICINE AND SURGERY.
+
+       *       *       *       *       *
+
+
+
+
+HOW TO USE A GALVANIC BATTERY IN MEDICINE AND SURGERY
+
+
+  A Discourse DELIVERED BEFORE THE HUNTERIAN SOCIETY.
+
+  BY HERBERT TIBBITS, M.D.
+
+  FELLOW OF THE ROYAL COLLEGE OF PHYSICIANS IN EDINBURGH; HONORARY
+  MEMBER OF THE NEW YORK SOCIETY OF NEUROLOGY AND ELECTROLOGY; LATE
+  HONORARY MEDICAL SUPERINTENDENT OF THE NATIONAL HOSPITAL FOR THE
+  PARALYSED AND EPILEPTIC, OUEEN’S SQUARE, BLOOMSBURY, AND OF THE
+  MEDICAL SOCIETY OF LONDON; MEMBER OF THE CLINICAL, OPHTHALMOLOGICAL,
+  HARVEIAN AND PATHOLOGICAL SOCIETIES; FOUNDER OF, AND SENIOR PHYSICIAN
+  TO, THE WEST END HOSPITAL FOR DISEASES OF THE NERVOUS SYSTEM; AND
+  MEDICAL OFFICER FOR ELECTRICAL TREATMENT TO THE HOSPITAL FOR SICK
+  CHILDREN, GREAT ORMONDE STREET, ETC. ETC.
+
+  _THIRD EDITION_
+
+  REVISED, AND INCORPORATING THREE LECTURES UPON ELECTRO-THERAPEUTICS
+  DELIVERED BY THE AUTHOR AT THE NATIONAL HOSPITAL
+
+  [Illustration]
+
+  LONDON:
+  J. & A. CHURCHILL,
+  11 NEW BURLINGTON STREET.
+  1886.
+
+
+
+
+NOTE TO THE THIRD EDITION.
+
+
+This Discourse was first published in compliance with the request
+of several of those who heard it delivered, and who expressed to me
+an opinion that busy practitioners might perhaps be glad to have at
+hand, and in small compass, such information as it contained. It was
+obviously impossible to do more in so limited a time than to make a
+general reference to the therapeutic uses of electricity; and the most
+that I attempted in this direction was to recall to the recollection
+of my audience those conditions of disease in which the application of
+electricity would seem--without doubt--to be required; and to indicate
+the methods of application most generally useful. The construction of
+apparatus can not be understood from verbal or written description
+alone; and I appended to the text certain notes, and illustrations of
+the instruments which I submitted to the Society.
+
+With the Second Edition I incorporated three Lectures which I delivered
+at the National Hospital for the Paralysed and Epileptic; and to this
+Edition I have appended such additional matter as I believe will prove
+useful to the student.
+
+I may add that I have endeavoured, as was said by a deceased physician,
+“to paint electro-therapeutics not imperfectly, but, as it were, in
+miniature:” and that while I have carefully revised every page, and
+have noticed all real improvements introduced to the profession since
+the First Edition, I have kept the book a small book: and I venture to
+hope a book easily to be understanded by the multitude of practitioners
+who ask daily what instruments to use, and when, and especially how, to
+use them.
+
+These questions I have endeavoured to answer in the following pages,
+which contain such details, and such details only, as I believe it
+essential for the practitioner to master.
+
+  68, WIMPOLE STREET, W.
+  _December, 1885_.
+
+
+
+
+CONTENTS.
+
+
+  NOTE TO THE THIRD EDITION.
+
+  LECTURE I. ELECTRICAL INSTRUMENTS.
+
+  PRELIMINARY REMARKS.
+
+  THE DIFFERENT VARIETIES OF ELECTRICITY.
+
+  1. FRANKLINISM.
+    Method of Generating.
+    The Plate Machine.
+    Winter’s Machine.
+    Carré’s Machine.
+    The “Bischoff” Gas Engine.
+    The “Hand Fly-Wheel.”
+    Accessories Required.
+    Its Administration.
+      (_a_) Electro-Positive Bath.
+      (_b_) Electro-Negative Bath.
+      (_c_) by Sparks.
+
+  2. VOLTAISM.
+    Points of Distinction between the Voltaic and Faradaic Currents.
+    The Essentials of a Voltaic Battery.
+    The 40-Cell Battery.
+    The Galvanometer as an aid to the Dosage of Electricity.
+
+  3. FARADISM. The Essentials of a Faradaic Instrument.
+    Description of a Faradaic Instrument.
+    The Combined Hospital Battery.
+
+  THE ACCESSORIES OF ELECTRICAL APPARATUS.
+
+  LECTURE II. METHODS OF APPLYING ELECTRICITY.
+
+  RÉSUMÉ OF FIRST LECTURE.
+
+  GENERALIZED ELECTRIZATION.
+    The Positive Charge.
+    The Electric Bath.
+    General Faradization.
+    Central Galvanization.
+
+  LOCALIZED VOLTAIZATION AND LOCALIZED FARADIZATION.
+    Direct Muscular Electrization.
+    Indirect   ”           ”
+    Different kinds of Rheophores.
+    Importance of exactitude in administering a Constant
+      Current.
+
+  CUTANEOUS ELECTRIZATION.
+    (_a_) The Electric Hand.
+    (_b_) Metallic Conductors.
+    (_c_) The Wire Brush.
+
+  ELECTRIZATION OF INTERNAL ORGANS.
+    (_a_) of Rectum and Muscles of Anus.
+    (_b_) of Bladder.
+    (_c_) of Uterus.
+    (_d_) of Larynx.
+    (_e_) of Male Genitals.
+
+  ELECTRIZATION OF CENTRAL ORGANS OF NERVOUS SYSTEM.
+    (_a_) of the Brain.
+    (_b_) of the Sympathetic.
+    (_c_) of the Spinal Cord.
+    (_d_) of the Retina.
+    (_e_) of the Auditory Nerve.
+
+  PRECAUTIONS TO BE OBSERVED IN ALL MEDICAL APPLICATIONS OF
+      ELECTRICITY.
+
+  LECTURE III. ELECTRICITY IN DIAGNOSIS AND TREATMENT.
+
+  A.--_Electricity in Diagnosis._
+
+  LIMITATION OF ELECTRICITY IN DIAGNOSIS.
+
+  METHOD OF TESTING FARADO-IRRITABILITY.
+
+         ”          VOLTAO-IRRITABILITY.
+
+  RULE FOR STRENGTH OF CURRENT.
+
+  DIAGNOSIS WHEN IRRITABILITY IS NORMAL.
+    diminished.
+    increased.
+    diminished to Faradism and increased to Voltaism.
+    of Peripheral from Central Disease.
+    of commencing Paraplegia from Locomotor Ataxy.
+    of Real from Feigned Disease.
+
+  ELECTRICITY AS PROOF POSITIVE OF DEATH.
+
+  B.--_Electricity in Treatment._
+
+  LIMITATION OF ELECTRICITY AS A REMEDY.
+
+  FRANKLINIZATION.
+    (_a_) in Facial Neuralgia.
+    (_b_) in Sciatica.
+    (_c_) in Facial Spasm.
+    (_d_) in Emotional Aphonia.
+    (_e_) in Hysterical Hyperæsthesia.
+    (_f_) in Tremor.
+
+  NOTE UPON RECENT ADDITIONS TO OUR KNOWLEDGE OF THE
+      BENEFIT OF FRANKLINIZATION IN DISEASES OF DEBILITY.
+
+  VOLTAIZATION.
+    The “Constant Current.”
+    Possesses an Influence “_sui generis_.”
+
+  ELECTRIZATION in Neuralgia.
+    in Fatigue Diseases.
+    in Electrotonus.
+    its Resolvent Effects.
+    in Electrolysis.
+    in Impotence.
+    in Gout.
+    in Rheumatic Arthritis.
+    in Muscular Rheumatism.
+    in General Debility.
+    in Atrophic Paralysis.
+    in Infantile Paralysis.
+    in Traumatic Paralysis.
+    in Lead Palsy.
+    in Facial Paralysis.
+    in Wasting Palsy.
+    in Hemiplegia.
+
+  ELECTRIZATION as a Direct Application to the Brain.
+    in Spinal Paraplegia.
+    in Paraplegic Constipation.
+    in Incontinence of Urine.
+    in Hysterical Paralysis.
+    in Locomotor Ataxy.
+    in Insanity.
+    in Diseases of Women.
+    as an Emmenagogue.
+    in Inertia Uteri.
+    in Post-partum Hæmorrhage.
+    in Uterine Neuralgia.
+    in Sterility.
+    in Paralysis of Nerves of Special Sense.
+
+  RÉSUMÉ OF THE GENERAL PRINCIPLES OF ELECTRO-THERAPEUTICS.
+
+  CONCLUDING REMARKS.
+
+       *       *       *       *       *
+
+HOW TO USE A GALVANIC BATTERY IN MEDICINE AND SURGERY.
+
+
+
+
+LECTURE I. ELECTRICAL INSTRUMENTS.
+
+
+MR. PRESIDENT AND GENTLEMEN,
+
+[SN: Preliminary Remarks.]
+
+When your Council did me the honour to ask me to bring before you
+the subject of Electro-therapeutics, I felt that the invitation
+was addressed rather to the Hospital to which I am attached than
+to myself, seeing that to it belongs the merit of having been for
+some years the pioneer and outpost, so to say, in this metropolis
+of the scientific and methodical application of electricity to the
+alleviation and removal of disease; and that we are indebted to one
+of its distinguished physicians for a remarkable investigation into
+animal electricity, and the demonstration that much of what we have
+been accustomed to attribute to a “vital principle” may, in reality,
+be the effect only of electrical charge and discharge[1] (a valuable
+contribution to the correlation of the Physical Forces); and to my
+predecessor for the discovery of the special influence of voltaic
+currents in certain forms of paralysis.[2]
+
+As it is one of our objects in our practice here to study the scope
+and the limits of electricity as a remedy in disease, it seemed to me
+not inappropriate to devote my first Lectures to electro-therapeutics;
+and the more so, as few medical men have a practical knowledge of the
+subject; and I fear that the profession generally, through lacking
+this practical knowledge, are to some extent responsible for the utter
+and astounding recklessness with which the laity--ever ready to rush
+in where physicians fear to tread--are prone to apply painful and
+dangerous electrization, not to themselves, but to their suffering
+friends; while it is still too common for the medical practitioner (as
+quoted by Golding Bird upwards of forty years ago) to consider that
+when his fiat has gone forth “let the patient be electrified,” he has
+done all that is necessary, while the patient usually carries out this
+mandate by the purchase of a rotary magneto-electric machine, and by
+using it according to the directions of its maker, who is generally
+about as well fitted to teach its application in disease as is the
+maker of an amputating knife to operate with it!
+
+The almost complete absence in the medical schools of the
+great hospitals of opportunities for an adequate study of
+electro-therapeutics, the importance of the subject, and the widespread
+attention that it is awakening throughout the profession, have also
+determined me to sketch as briefly as is consistent with clearness the
+present position of the science and practice of medical electricity,
+and especially of its practice.[3]
+
+Electricity, Gentlemen, is by no means one of those remedies that,
+failing to do good, is little likely to do harm. On the contrary, in
+injudicious hands, it is potent for evil, while the benefit to be
+derived from it is in exact proportion to the judgment and care with
+which it is administered. Moreover, the results of its employment
+are dependent, more than with any other therapeutic agency, upon the
+methods by which it is applied--methods that should be familiar, not
+alone to a few specialists, but to every practitioner.
+
+Addressing you who are engaged in active practice, with little
+time to devote to medical electricity, it will, I think, be more
+acceptable for me not to weary you with a tedious discourse upon the
+elementary principles of electricity, for the practical application of
+these matters concerns rather the instrument-maker than the medical
+practitioner, and I shall discuss none of them, except incidentally,
+and _with precise reference to their application to medicine_. Besides,
+we know little of them, and I cannot forget that Faraday said that
+“he once thought he knew something about electricity, but the more
+he investigated it the less he found he understood it.” Let us then
+be content with its definition as a “FORCE,” “pervading all nature,
+latent in every substance, and liable at any moment to be excited by
+mechanical or chemical means.”
+
+Nor do I propose to make these Lectures in any sense exhaustive,
+but, on the contrary, to include in them only such information as is
+essential, and such as you may readily, and without effort, retain in
+your memory. I shall direct especial attention to practical points
+which are of importance to the successful use of electricity; for
+from non-observance of small details of application many failures
+have resulted, the treatment getting a measure of discredit, which in
+_strict justice_ should have attached only to the operator.
+
+In the present Lecture I shall consider instruments, their
+construction and management, a dry subject, but an essential one,
+the first requisite of a good workman being complete familiarity
+with his tools, lacking which he will be the victim of constantly
+recurring annoyances and difficulties; for although the present
+position of electro-therapeutics is largely due to improved methods
+of administration, these methods would be impossible with faulty
+instruments, while, on the other hand, the most perfect instruments
+require a certain amount of skill and care in their management, and
+some acquaintance with at least the mechanical details of their
+construction; and without this rudimentary knowledge it is also
+impossible to usefully compare one instrument with another.[4]
+
+My second Lecture will be devoted to the different methods of applying
+electricity, and my third and last to its uses in the diagnosis and
+treatment of disease.
+
+[SN: Varieties of Electricity.]
+
+We make use of three varieties of electricity in medicine.
+
+Firstly, of static or friction electricity, the electricity of
+glass and amber, appropriately called from its early investigator,
+_Franklinism_.
+
+Secondly, of the electricity of chemical action, _Galvanism_, or
+better, _Voltaism_, the “_Constant Current_.”
+
+Thirdly, of _Faradism_, the induced currents of momentary duration,
+which are generated or _induced_, in a coil of wire by the action upon
+it, under certain circumstances, of a magnet, or of a Voltaic current.
+
+
+FRANKLINISM.
+
+Franklinism, sometimes of the utmost value, and far surpassing, in
+certain cases, any other form of electricity, has some inconveniences
+in its application, and has hitherto been little used but by
+specialists. Recent improvements in Franklinic instruments have,
+however, largely removed these inconveniences, and have placed at the
+general service of the profession a remedy of much good and still
+greater promise. The fundamental requisite in all Franklinic machines,
+consists in the rotation of a glass plate against a leathern or other
+rubber, and the accumulation of the resulting electricity upon a
+metallic receiver, insulated by a non-conducting support, usually of
+glass.
+
+[SN: Franklinism]
+
+Discarding the primitive cylinder machine, now long since disused,
+we will firstly consider the plate machine in which the electricity
+arising from the friction of the rotating glass plate against
+the upper and lower cushions, is collected by two brass arms and
+distributed to the brass conductor, from which they branch out, and
+which is insulated by a glass support.
+
+[Illustration: FIG. 1. Plate Electrical Machine and Glass-legged Stool.]
+
+The machine should be fixed upon a firm stand that it may be quite
+steady during rotation, and be screwed to a heavy painted deal table,
+as is shown in Fig. 1.
+
+[Illustration: FIG. 2. Winter’s Machine.]
+
+When very seldom used, _and where expense is a consideration_, very
+_fair_ results may be obtained from a Winter’s machine with a plate
+of only 15 inches in diameter, and which is easily carried. In this
+instrument, Fig. 2, the fact that the quantity of electricity which may
+be accumulated upon a conductor is dependent upon its size has been
+most ingeniously applied, the surface of the conductor being enormously
+increased by the insertion into a large wooden ring of a core of thick
+iron wire. Electricity accumulates upon the wire, and is prevented from
+escaping by the insulating wooden covering.
+
+But in the daily or frequent use of Franklinism it is essential,
+equally for the comfort of the operator, as for the benefit of the
+patient, that the most efficient apparatus should be provided. The
+one delineated in Fig. 3, and which I habitually use, is that known
+as Carrè’s, but I have modified it by having attached to it a second
+accumulator, or conductor (the first time, I am led to understand,
+that such an improvement has been added to any such machine). This
+arrangement admits of the patient receiving the charge of either
+positive or negative electricity--a condition said by some physicians
+to be of primary importance.
+
+[Illustration: FIG. 3. Static Machine with Gas Engine and Insulating
+Stool.]
+
+There are other machines, but I do not propose to weary you with their
+descriptions.
+
+When _any_ Franklinic apparatus is in use its plate or plates should be
+evenly and uniformly rotated, and it is much better to have this done
+mechanically rather than by a man or maid-servant.
+
+I use a “Bischoff’s” gas engine, shown to the right hand in Fig. 3.
+It consists of a cylinder, surmounted by a hollow column serving as
+a guide to the piston. From the extremity of this column there is a
+very long connecting rod which acts upon the crank of the shaft of
+the fly-wheel and driving-pulley. When the piston ascends it draws
+in during four-tenths of its course a mixture of air and gas from the
+pipes. A little before the piston has ascended half-way a gas jet
+ignites the mixture. There is a slight explosion without the least
+effect on the sides of the cylinder, but sufficiently strong to push
+the piston and cause it to complete its course. In consequence of this
+movement the piston is raised and acts on the connecting rod, forcing
+it upwards and half turning the fly-wheel. On account of the speed
+acquired, and of the impulse given, the fly-wheel continues its course
+by means of the crank and connecting rod, and sends the piston to the
+starting-point again. Then it ascends again, taking in a fresh charge
+of air and gas, motion being imparted anew to the driving shaft by
+every revolution of the engine.
+
+An engine of 2-man power, with an altitude from the ground to the
+top of the column of 4 feet, and with a fly-wheel measuring 2 feet 6
+inches in diameter, is amply sufficient for every purpose. It works
+evenly and without noise; it is absolutely free from danger, and
+it is placed instantly in or out of action by merely igniting or
+extinguishing a single gas jet. But it is remarkable that no one seems
+to have suggested--even before the gas-engine era--that a “fly-wheel”
+with a pulley would obviate the old difficulty of the unsatisfactory
+rotation of the Plate machine. Going into a hair-cutter’s shop I found
+the apparatus, figured to the left of Fig. 4, standing in the shop to
+work the customary “hair brushing machinery” instead of its being, as
+is usual, fixed upon an upper floor. I obtained one, and fitted it in
+the manner shown, to a Carrè’s machine. The fly-wheel is so heavy that
+it can be rotated by the operator without the aid of an assistant, by
+his giving the handle an occasional “swing round.” Its momentum then
+keeps it revolving a sufficient number of times before the next “swing”
+is required, to enable him to leave it and attend to his patient. The
+manner in which the band from it is attached to a small wheel in rear
+of the Static machine is also shown in the Figure.
+
+[Illustration: FIG. 4. Fly-Wheel and Static Machine.]
+
+In Fig. 3 the patient is being “charged” with _positive_ electricity,
+or, as the electro-therapeutists of fifty years ago would have
+said, “he is taking an electro-positive bath,” by being insulated
+and connected through the metallic rod held in his hand with the
+accumulator upon which the positive electricity is stored, while the
+negative electricity is “run off” by a brass chain leading from the
+negative accumulator to the ground. If the process were reversed, the
+positive accumulator, being connected with the ground, and the patient
+with the negative one seen at the top of the machine, he would be
+taking “an electro-negative bath;” for we make him, as it were, a part
+of each accumulator as the case may be; its accumulated electricity
+passes to him and he becomes _charged_. If the air were perfectly dry
+he would continue (as he is insulated) in this charged condition, but
+owing to its contained moisture the electricity rapidly leaves him, and
+to maintain the charge it is necessary that the plate of the machine
+should be kept in constant rotation. Indeed, the escape of electricity
+is so rapid that to get the best action we must have a fire in the
+room, and before use well rub the plate, the insulating supports, the
+legs of the stool, and all the glass parts of the apparatus with a warm
+and dry piece of flannel. This is of importance, and however dry the
+day, should as a rule never be neglected.
+
+By smearing the inside of the cushions of the machine with a little
+paste, composed of an alloy of mercury and tin (technically known as
+“amalgam”), mixed with a little tallow, the amount of electricity is
+much increased, but care should be taken not to smear the cushions
+with too much, which had better be bought ready prepared. A piece
+about the size of a small grape for each of the cushions will be
+enough, and no more need be added for two or three weeks. Always scrape
+off old amalgam before adding new. The cushions should be screwed
+sufficiently tight to slightly “grip” the plate, and if it is found
+that notwithstanding having rubbed the glass of the apparatus as
+above directed, the instrument is not supplying a sufficient quantity
+of electricity, remove the cushions and warm them thoroughly. _It
+is impossible to be too careful that everything is warm, clean, and
+dry_, for the great obstacle that exists against the extended use of
+Franklinism is found in this difficulty sometimes present, from neglect
+of the above precautions, in getting efficient action. But even on a
+foggy day the instrument, _with proper care_, may be made to act well.
+The operator should also remember that dust must be sedulously guarded
+against. A few drops of petroleum may be sprinkled upon the table, and
+their vapour condensing upon the machine will aid in protecting it
+against moisture.[5]
+
+There will also be needed two or three lengths of brass chain, or of
+copper wire, and a stool about 4 feet by 2 feet, with four glass balls
+or legs. A stool of this size admits of a chair being placed upon it,
+as in Fig. 3, and it will be also useful for certain applications of
+voltaism, which will be mentioned later on. Four glass jars are also
+needed with which to insulate an ordinary couch.
+
+[Illustration: FIG. 5. Improved Dischargers and Connecting Rod. FIG.
+5_a_.]
+
+A chair, insulated by being screwed to a glass platform, as in Fig.
+5_a_, _running on castors_, is an improvement upon the old-fashioned
+glass-legged stool.
+
+[SN: Franklinization by Sparks.]
+
+In Fig. 3, the electricity is escaping from all points of the skin,
+but if it is desired to localize somewhat this escape along the course
+of certain nerve branches, or otherwise, but to avoid shock, a brush
+may be slowly passed by the operator almost, but not quite, in contact
+with the skin. A series of rapid and successive reunions of the
+electricity with each bristle of the brush takes place, generating a
+current of cold air perceptible to the patient. I habitually use for
+this application an ordinary clothes-brush. If while in connection with
+the conductor any object (the knuckles will do) is brought sufficiently
+near to the patient for his contained electricity to overcome the
+resistance of the intervening stratum of air, he is “_discharged_” with
+a spark. This is _Franklinization by sparks_, and is accompanied by a
+certain slight amount of “shock.”
+
+In Fig. 5, improved “dischargers,” and a convenient metallic connecting
+rod are shown.
+
+The ball terminations of the dischargers should vary in size, for
+within certain limits, the larger the ball the more intense the spark;
+with the pointed end the spark is very small; with the discharger
+terminating in many small metallic points still smaller, and with a
+similar discharger made of wood, a luminous glow alone results, and no
+spark.[6]
+
+I shall discuss, in my third Lecture, the therapeutic values of
+Franklinism.
+
+
+VOLTAISM OR GALVANISM.
+
+[SN: Voltaism.]
+
+The Voltaic current is a _continuous_ current. Unless artificially
+interrupted, the electricity flows in an unbroken stream until the
+battery is exhausted. The current will gradually lessen in power until
+it ceases, but there will be no break in it, and no change in its
+direction, which is uniformly from the positive to the negative pole.
+[SN: Points of distinction between the Voltaic and Faradaic Currents.]
+It is important to recollect these points, for they constitute the
+chief physical distinction between the Voltaic and the Faradaic--or,
+as it is sometimes called, the Induced current. This latter is not,
+strictly speaking, a “_current_,” but a rapid discharge or succession
+of momentary shocks, each perfectly distinct in itself, and separated
+by an appreciable interval of time from its fellows.
+
+[SN: Voltaic Cells.]
+
+In electrization, a source of electricity is of course necessary, and
+this is furnished by a cell or cells, with contained elements and
+chemicals; and, until a few years ago, it was impossible to get a
+_portable_ cell that remained always in order and ready for use.[7]
+
+[SN: Requisites of a Portable Battery.]
+
+The requisites of a portable battery are that it should be really
+portable, always ready for use, and little liable to get out of
+order. Such batteries may be divided into two classes: firstly,
+those in which the elements are either lowered into the exciting
+fluid or the fluid is lifted to them, as in the instruments of
+Stöhrer, Weiss, and almost all other makers; and, secondly, those in
+which the elements remain immovable in their cells, and of these the
+Leclanché, the Gaiffe-Clamond, and the chloride of silver, are to be
+generally preferred to any of the first-named construction, for they
+admit of the cells being so nearly sealed up that no fluid can be
+spilt by any movement except turning the battery quite upside down;
+while the somewhat common accident with batteries of the first-named
+construction--viz., destruction of the plates by leaving them in the
+acid, with its anything but agreeable result of a considerable expense
+to replace them, is obviously impossible. The only disadvantage they
+possess is that when exhausted it is necessary to send them to the
+maker to be recharged, _while the owner can keep the first-named
+variety in order himself_.
+
+Efficient cells are, however, but a first step to the perfection of
+electrical apparatus, and the mechanism by which the current is brought
+into use and graduated, and the general accessories of the instrument,
+are of at least equal importance. The instruments which I am about to
+describe, have been designed by myself, and may be obtained from Mr.
+Hawksley, Surgical Instrument Maker, Oxford Street. It is claimed for
+them that they place at the service of the busy practitioner a battery
+that with ordinary care (and no instrument will remain in order
+without this) may be kept upon his consulting-room table, always as
+available to his service as his stethoscope or ophthalmoscope.
+
+Three kinds of batteries are constructed:--A Voltaic battery, with any
+required number of cells, from 15 to 100; a Faradaic battery; and a
+Combined battery, uniting both Voltaic and Faradaic currents.
+
+[Illustration: FIG. 6. 40-Cell Voltaic Battery.
+
+A. Guard preventing the lid being shut, unless the needle of the dial
+points to “0”, and the instrument is out of action.
+
+B. Cells shown by the removal of the compartment, H, for sponges and
+accessories.
+
+C. Bolt to secure the element board, which moves upon the hinges, D.
+
+D, D. Hinges of element board.
+
+E. Dial plate regulating the strength of the current. The needle, when
+the battery is not in use, should cover the stud, “0,” seen to its left.
+
+F. Commutator of the poles. The poles, N and P, are seen through holes
+cut in the element board.
+
+G. Key by which the current can be shut “off” or “on,” without change
+of position of the conductors. It can also be used by vibrating it
+backwards and forwards as an “interrupter.”
+
+I, I. Binding screws, to which are attached the conducting wires and
+sponge-holders, &c.]
+
+[SN: The Voltaic Battery.]
+
+_The Voltaic Battery_ (see Fig. 6, p. 20) has its cells arranged in the
+interior of a mahogany case, and in use they are hidden from view and
+from danger, but I now partially expose them by removal of the tray
+for holding the sponges and accessories. Their connecting wires are
+brought across the under surface of the element board, which is made
+to move upon hinges that, when necessary, the cells may be examined,
+but at other times this element board is held in position by a bolt,
+and it should never be needlessly disturbed. These wires conduct the
+current through the graduating dial, and the position of the needle of
+this dial determines from how many of the cells the electricity shall
+be allowed to reach the binding screws, and from them, by way of the
+conductors, sponge-holders, or electrodes, the body of the patient,[8]
+or whether it shall be entirely shut off, as is the case when the
+battery is not in use, and when the needle stands at “0” (Fig. 7).
+When the needle points to any stud numbered on the dial, the number
+of cells marked on that stud are brought into action, and the needle
+is made just wide enough to touch one of the studs before it breaks
+contact with the preceding one, and thus the current may be increased
+or decreased in power without shock, and while the electrodes are
+held applied to the patient; but if it were not so made a series of
+painful shocks would be communicated whenever the current was increased
+or decreased. Should the needle, from forgetfulness, be left when
+out of use in any other position than at “0,” a guard upon the lid
+of the instrument prevents its being shut, and the operator has his
+attention called to his inadvertence. A Voltaic alternative, or change
+of direction of the current, is sometimes required in treatment, and
+the commutator of the poles enables this to be accomplished without
+alteration in the position of the conductors. By pushing forwards or
+backwards the handle which moves a lever working below the element
+board the current is instantly reversed, and the alternation of the
+letters “P” and “N” seen through holes cut in the element board
+indicates at once not only that there has been a change of poles,
+but which pole is at the moment negative or positive; whereas in all
+previous instruments, when the poles have been changed, there has
+either been no letter marking them, or this letter has really been
+wrong, and one has had to remember this; and under such circumstances,
+and examining patients in rapid succession, momentary confusion of
+the poles was very liable to occur, even to a practised operator. A
+key enables the current to be shut off or on without removal of the
+conductors. Dirt is a non-conductor of electricity, and the studs
+of the dial must be kept clean with emery paper or plate-powder, as
+also the under surface of the needle, key, and binding screws, which
+unscrew to admit of removal. In the daily use of a battery the chief
+work is usually thrown upon the first half (say in a battery of forty
+cells, upon the first twenty-five), and various arrangements have
+been added to batteries by ingenious instrument-makers to enable the
+operator to vary his selection of the cells to be brought into use, and
+thus to relieve the first half of his battery, or, in other words, to
+equalize its work. But this unequal work question is more a theoretical
+than a practical evil; for if the initial cells grow weaker a greater
+number can be placed in use. I have carefully studied all the proposed
+modifications, and have found in all of them the remedy worse than the
+disease, unless the graduating dial be doubled (an original suggestion
+of my own), so that the initial cells of one week may be made the
+terminal cells of the next.
+
+[Illustration: FIG. 7. Graduating dial with needle at “0”.]
+
+When desired batteries can be constructed with this double dial (Fig.
+8), but it adds to the complexity of the instrument, and I do not
+myself use it.
+
+[Illustration: FIG. 8. New form of Graduating Dial.]
+
+In Fig. 9 a similar battery is shown to that just described; but the
+elements consist of carbon and zinc, and are lifted into and out of
+a bichromate solution. As it can be recharged by the owner without
+the necessity of sending it to the maker, it is especially suited for
+country and colonial practitioners.
+
+[Illustration: FIG. 9. 40-Cell Voltaic Battery with zinc and carbon
+elements, and lifting apparatus.]
+
+[SN: Essentials of a Medical Voltaic Battery.]
+
+To recapitulate. The essentials of a medical Voltaic battery are--
+
+_a._ A constant supply of electricity of sufficient quantity and
+quality.
+
+_b._ A means by which this electricity may be administered in measured
+doses.
+
+_c._ A means by which the direction of its current may be changed.
+
+_d._ A means by which it may be instantly discontinued.
+
+
+FARADISM.
+
+[SN: The Faradaic Current.]
+
+The Faradaic, induced, interrupted, or electro-magnetic current, is
+the third form of electricity employed in medicine. Faraday, as you
+will recollect, discovered, that if two metallic wires were so fixed
+as to be parallel and close to each other, but not to touch; and that
+if then a current of Voltaic electricity were sent along the first
+wire, another current appeared in the second. This _secondary_ or
+_induced_ current, as it is called in contradistinction to the current,
+the _primary_ or _inducing_ current sent along the first wire is only
+momentary, but it appears again for a moment when the first current
+ceases, but in a reverse direction. It is most convenient to wind
+these two wires round two reels, so as to form separate coils, and to
+place the primary within the secondary coil. Each single turn of the
+primary then acts not only on the parallel turn of the secondary wire,
+but on all the turns near it, and the power of such an apparatus is
+much greater than that which would be obtained by the same lengths of
+wire running side by side in a straight line. Our two coils being thus
+arranged, we pass through our primary wire a succession of electrical
+currents, and in practice this is accomplished by connecting its
+extremities with a battery supplying a continuous current, which by an
+ingenious mechanism we frequently break or interrupt.
+
+[Illustration: FIG. 10. Faradaic Battery.
+
+A. Cells shown by the removal of the compartment.
+
+B. For conductors and accessories.
+
+D. Screw regulating the pressure of a spring which modifies the
+vibration of the hammer, E.
+
+E. Hammer vibrating between the electro-magnet, F, and the point of a
+platinized needle regulated by the screw, G.
+
+F. Bundle of iron wires rendered an electro-magnet by the passage of
+the Voltaic current from the cells, A, through the primary coil, K,
+within which this bundle of wires is inserted.
+
+G. Screw regulating position of a platinized needle.
+
+H. The graduator, a stem to which is attached the movable secondary
+coil, L. The front part of the case has been cut away in the engraving,
+to show the construction of the induction apparatus.
+
+I, I. Binding screws for attachment of the conducting wires, &c.
+
+K. The primary coil, fixed upon a pedestal. In the figure, the
+secondary coil, L, is wholly withdrawn from the action of the primary,
+and its strength of current depending entirely upon the extent to
+which it covers the primary, it is evident that the height which the
+graduator, H, stands above the element board will exactly indicate this
+strength.
+
+L. Movable secondary coil.
+
+M, M. Binding screws for attachment of the pedal rheotome, N, for
+slow interruption. These interruptions are made by the pressure of
+the operator’s foot upon the spring, P, but in practice they are very
+seldom wanted, and the fittings are only added to the instrument when
+specially ordered.
+
+O. A spring retaining the secondary coil, L, in any desired position.]
+
+[SN: The Faradaic Battery.]
+
+_The Faradaic Battery._--In Fig. 10 (see p. 29), a Faradaic battery,
+worked by two Leclanché cells, is shown; but I find it better to employ
+either one or two ordinary bichromate cells instead of the Leclanché,
+as the former can be kept in order by the operator himself without
+much trouble. The primary coil is fixed upon a pedestal, the secondary
+is movable, and can be lifted over or thrust away from the primary.
+The degree of action in the secondary coil being proportionate to the
+extent to which it is brought under the influence of the primary, this
+arrangement admits of the most perfect graduation of the current; and
+it has been for some time in use in all well-constructed instruments.
+The innovation I have made consists in limiting the primary coil to
+its legitimate purpose of induction, and rendering the secondary alone
+available for application to a patient. I have been long satisfied
+that therapeutically the distinction between the primary and secondary
+coil entirely consists in the greater tension of the current of the
+secondary coil enabling it to penetrate easily several thicknesses
+of muscle, but there is no therapeutic indication that cannot be
+fulfilled by this secondary coil; and at its lowest power I have
+frequently applied it to the conjunctiva. The rapidity of vibration
+of the interrupting hammer is varied by increasing or decreasing the
+distance between the point of the needle and the electro-magnet by
+the protrusion or retraction of the screw, of which the needle forms
+the end--that is, by increasing or decreasing the space through which
+the hammer passes in its vibration, and also by altering the pressure
+of its spring, but there is seldom therapeutic need for change of
+vibration; and unless this exists it is better _not to alter the
+adjustment so long as the instrument acts well_.[9] After considerable
+use the point of the needle, and the exact spot of the platinum disk of
+the hammer against which this needle impinges, become oxidized, causing
+weakening or stoppage of the current. This platinum disk has been
+constructed to rotate, and a hole has been drilled in its circumference
+(Fig. 11). By inserting a little lever furnished with the instrument
+into this hole, the slightest twist given to the disk is sufficient to
+bring a new surface of platinum into contact with the needle point.
+This will usually be all that is required, but, if not, the needle can
+be unscrewed, and its point cleaned with emery paper. When in course of
+time the disk becomes dotted over with spots of oxidation, the screw
+fixing the hammer in position must be unscrewed, the hammer lifted out,
+and its surface similarly cleaned.
+
+[Illustration: FIG. 11. The Platinum Disk and Lever.]
+
+Induction currents are also produced in coils of wire by the action
+upon them under certain conditions of a permanent magnet--as in the
+ordinary rotary magneto-electric machine--but these machines may be
+discarded from our consideration, for they are uncertain in action,
+painful in application, and do not admit of exact graduation.
+
+An apparatus in which both currents are combined is extremely
+convenient if it is so constructed that either the Voltaic or Faradaic
+current can be brought to the same terminals, thus avoiding the
+trouble of changing the conductors--a point of the greatest possible
+convenience when examining patients for diagnostic purposes by both
+forms of electricity, either in succession or alternately.
+
+[SN: The Hospital Combined Battery.]
+
+In the _Hospital Combined Battery_ (see Fig. 12), constructed from
+my designs, the two currents are thus united, and its details are
+precisely similar to those of the separate batteries, with the
+exception of the Dial being furnished with an additional stud lettered
+_Coil_. When the needle points to this stud the current from the
+Faradaic coil is brought into action; when it points to the numbered
+studs, the cells numbered thereon as in my Voltaic instrument, and
+when it points to “0,” both currents are shut off.
+
+[Illustration: FIG. 12. Hospital Combined Battery.
+
+  A. Guard block.
+  K. Tray for holding accessories.
+  E. Dial plate.
+  C. Bolt securing element board.
+  G. Key for interrupting current.
+  M. Hammer.
+  F. Commutator of the poles.
+  I, I. Binding screws for conducting wires.
+  L, L. Hinges of element board.
+  H. Graduator of coil.
+  N. Electro-magnet.
+  R. Screw regulating position of needle.
+  D. Screw regulating spring of hammer.
+
+]
+
+Other instruments, such as those of Stöhrer and Weiss, are excellent,
+and were unsurpassed until the invention and improvement of the
+Leclanché and other cells. But I might talk upon instruments for hours
+without exhausting the list; and I have felt obliged to limit myself
+to a description of those I believe best fitted to our requirements;
+but it, of course, must be understood that my further _observations
+will apply equally to currents of electricity furnished by any properly
+constructed and reliable apparatus_.
+
+[SN: Accessories of the Battery.]
+
+We have now brought the electricity to the terminals of our battery,
+and we must next consider the best means of conveying it to the
+sponges, conductors, or, as they are generally termed, rheophores or
+current carriers, by which it is finally applied to our patient. [SN:
+Conducting Cords.] Our first necessary accessory is a conducting cord
+or wire, and it is of the first importance that this should really
+be what it is called--“_a conductor_”--for any fault or break of
+connection in it will, of course, nullify the best and most perfect
+battery. It must also be sufficiently pliable, and be insulated by
+being coated with some non-conducting material that the electricity
+may not escape from it to any conducting substance with which it
+may accidentally come into contact. The conducting cords sold by
+instrument-makers are sometimes not insulated at all, and then they are
+quite useless, but they are more commonly composed of several strands
+of metallic wire of about the diameter of sewing thread, the whole
+enclosed in some silken or woollen material, and nothing can be better
+than these latter when quite new. Their disadvantages are that they
+become frayed after a little use, and are liable to be constantly out
+of order, causing interruptions in the current, while they will only
+fit one kind of machine. I have had endless trouble with them; and
+for some years I have used nothing but thin copper wire, coated with
+gutta percha in the same way as that known as “telegraph wire.” This is
+perfectly insulated, sufficiently pliable for all practical purposes;
+it is cheap, and can be made to fit any sort of connection. Its one
+disadvantage is, that it is liable to break at the point where it is
+received into the terminals of the battery, or the screw socket of
+the rheophore. Should this happen, all that is necessary is to scrape
+off the gutta percha coating with a pocket knife for an inch from the
+broken end, by which we get practically a new conducting cord.
+
+We have now considered fully the birth and parentage of medical
+electricity, and we have conducted it to within almost a hair’s
+breadth of our patient. The various methods of applying it will be
+considered in our next Lecture, which I trust, Gentlemen, to render
+more interesting; but the dry details we have been discussing are, I
+assure you, essential as a secure foundation for a practically useful
+survey of electro-therapeutics.
+
+FOOTNOTES:
+
+[1] See “Vital Motion as a Mode of Physical Motion.” By C. B.
+Radcliffe, M.D. Macmillan.
+
+[2] See Mr. Netten Radcliffe upon the differential reaction of voltaic
+and induced currents of electricity. Note to page 331, vol. i., of
+Bazire’s translation of Trousseau’s “Clinical Medicine.” Hardwicke.
+
+[3] This observation, made in 1873, requires some qualification now
+(1886). At several of the great medical schools, though not at all,
+electrical treatment has been transferred from the hospital porter to
+some member of the hospital staff; and at more than one a systematic
+course of lectures upon electro-therapeutics has been delivered.
+
+[4] I speak feelingly upon this matter, for from an early period of
+my electrical experience I have suffered much from batteries--from
+instruments “striking work” at the most inconvenient moment--from
+spilling of corrosive acid upon fingers and clothing, to the detriment
+of both, and of temper too, I fear.
+
+[5] So long ago as 1870, I was in the habit (at the suggestion of Dr.
+Radcliffe) of employing at an Institution for Resident Patients, a
+method of “charging” a patient which I believe to be unique.
+
+[SN: _Unique method of charging a patient._]
+
+During dry summer weather the patient reclined upon a couch in the
+gardens insulated by glass supports, and a sort of lightning conductor
+was improvised by attaching a 30-feet salmon-rod to the foot of the
+couch, a piece of ordinary “telegraph wire” being carried up the rod,
+its insulation being removed from about a foot which projected above
+the top of the rod.
+
+Upon a fairly warm and dry day the patient became “charged” and sparks
+could be drawn from him as from a patient in ordinary connection with a
+Franklinic machine in rotation.
+
+Upon more than one occasion in those ancient Static days, an attempt
+was made to insulate a patient for a whole night, and to maintain
+the charge by a relay of “rotating nurses;” but the _human machines
+failed_, and suitable gas engines were not then available; hence the
+procedure related above was, if conducted for three or four hours on a
+dry summer afternoon, a by no means bad substitute for a close room and
+a rotating Static machine. In New York, in winter, when the rooms are
+covered with thick carpets, and when the atmosphere is dry, it has been
+known that on shaking hands with a visitor, not only has the “shock,”
+which under similar circumstances occasionally occurs in England, been
+felt, but that a spark has passed; and children have been known to
+slide over the carpet towards each other and exchange sparks by way
+of sport. _The influence of atmospheric and other ordinary electrical
+conditions has been far too little studied by electro-therapeutists._
+
+[6] The Carré Machine can be obtained from Mr. Groves, 89 Bolsover
+Street; the Fly Wheel from Messrs. Hovenden and Co., Great Marlborough
+Street; and the Gas Engine from Messrs. Andrew and Co., Engineers,
+Stockport.
+
+[7] Currents of electricity from large fixed batteries are most marked
+in their curative effects; but patients are not always movable!
+
+[8] _The Galvanometer as an aid to the Dosage of Electricity._--The
+dose of voltaic electricity is made up of two factors, (_a_) the
+strength of the current and (_b_), the time during which it is applied
+to the patient. [SN: The Galvanometer as an aid to the Dosage of
+Electricity.] The strength of the current is directly dependent upon
+the number of cells employed, but, unfortunately, cells of dissimilar
+construction evolve currents of very unequal strength; while cells
+that have been freshly charged are more powerful than similar ones
+that have been partly exhausted by use; and, therefore, to speak of
+a current from “so many cells,” though, practically, a convenient
+method of dosage, fails to convey any _exact_ idea of a measured and
+unvarying quantity. It is a comforting theory to electro-therapeutists
+that a galvanometer will enable them to administer their doses of
+electricity with as much exactitude as we daily prescribe so many
+grains, or so many minims of ordinary medicines; but, like some other
+theories which save us much trouble, when adopted as theories _only_,
+it fails us in practice (at least according to my experience), and
+chiefly so, because a galvanometer can be usefully employed only when
+it is included in the circuit of a continuous current, as, _e.g._,
+in aneurismal electro-puncture; and, I believe, I am within the
+mark in saying that electrizations, which even admit of its useful
+employment, are indicated in barely 5 per cent. of ordinary cases in
+electro-therapeutics; and that it is of no practical utility, where
+we most want aid, in measuring, not the current which leaves the
+battery terminals, but that which, after overcoming the very variable
+resistance of the human skin, really reaches the underlying muscular
+and nervous tissues, which, in 95 per cent. of our cases, we desire to
+influence, not by a constant, but by an interrupted Voltaic current;
+and the amount which really reaches these tissues depends largely upon
+the condition of the patient’s skin, and, I may also add, upon the
+kind and shape of the conductor, and its degree of moisture, &c.; and
+the operator will do well to graduate his dose of electricity by a
+consideration only of the three factors, number of cells, effect upon
+himself, and effect upon his patient, discarding entirely the use of
+any merely mechanical aids to graduation.
+
+I am induced to speak thus strongly because men of scientific
+reputation have advocated the habitual use of the galvanometer, not
+alone by medical men trained to precision of observation, but by
+private patients as “_enabling them to carry on the treatment at home
+with all the accuracy desirable!_” The prospect of the ordinary patient
+provided with a battery, the use of which he is complicating by a
+galvanometer, is anything but reassuring to those physicians who not
+only prescribe electricity, but are themselves habituated in applying
+it--which, by the way, is a very different thing--and who have had
+frequent experience of the manner in which patients misunderstand,
+or fail in correctly carrying out, the most explicit directions.
+Electricity will be left in the hands of specialists, and necessarily
+do but a tithe of the good it is capable of affecting, until the
+mass of the profession can be induced to master the few preliminary
+details essential to its successful application, and I fear that the
+suggestions that have been made--suggestions which I believe to be
+entirely without foundation--that there exist practical difficulties to
+its dosage, will tend to postpone rather than to accelerate its more
+extended use.
+
+Should any of you desire to use a galvanometer, that patented by
+Sprague, of Birmingham, is the one most adapted for use in medicine.
+Electricity is a force, and as with other forces it has its standard
+of measurement. In mechanics we know that the power sufficient to
+raise one pound to the height of one foot is the basis of measurement.
+Similarly in electricity the unit of measurement is the force which
+will raise one gramme to the height of one metre, and the standard
+multiple of this was called a “British Association Unit,” or shortly, a
+“B.A.” unit, and it is now called an “_Ohm_” when used to measure the
+resistance offered to the current, and a “_Veber_” when used to measure
+the strength of the current itself. The ordinary galvanometer is
+founded on the principle that a magnetic compass needle has a tendency
+to place itself at right angles to a current of electricity, and the
+degree to which the needle is deflected is a measure of the quantity
+of electricity, but the angle of deflection is not proportionate to
+the current strength, and it differs in different galvanometers; but
+in “Sprague’s Galvanometer” the dial is divided, not into degrees,
+but into divisions of thousandths of _Vebers_--divisions which were
+obtained by noting the deflections given by the needle with currents
+of known strength. I am indebted to Mr. Sprague for his courtesy in
+endeavouring to so modify his galvanometer as to render it available as
+a graduator of doses of interrupted Voltaic electricity, but although
+he has not succeeded in doing this, he has constructed for me an
+instrument which, supposing that a battery be partially exhausted,
+will indicate with precision the absolute strength of, say, twelve
+of its cells as compared with twelve newly-charged cells, and also
+the condition of each individual cell, points often of much practical
+convenience in an Hospital Electrical Room.
+
+[9] A little care is needed to regulate the vibrating needle. The
+spring should but _barely touch_ the hammer, the adjustment being
+almost entirely regulated by the protrusion or retraction of the needle
+by the action of its screw; and the _slightest twist_ of this screw
+will be sufficient. When the vibration is uneven or stops, and careful
+manipulation of the needle fails to re-establish it, remove the needle
+and clean its point as directed in the text.
+
+
+
+
+LECTURE II. METHODS OF APPLYING ELECTRICITY.
+
+
+GENTLEMEN,
+
+[SN: Résumé of First Lecture.]
+
+In our first Lecture we studied the different kinds of electricity
+employed in medicine, and the construction and management of batteries.
+I reminded you that we made use of three kinds of electricity;
+firstly, of friction or static electricity, _Franklinism_; secondly,
+of the electricity of chemical action, _Voltaism_, or _Galvanism_;
+and, thirdly, of induced electricity, _Faradism_:--that there had
+been certain difficulties in the employment of Franklinism, but
+that these difficulties no longer existed; that Voltaic electricity
+was electricity in motion, or current electricity, but that
+while its current (unless artificially interrupted) was always
+_continuous_--flowing, that is, in an unbroken stream--and from the
+positive to the negative pole, until the battery was exhausted--it by
+no means followed that it was _constant_, that is, that it did not vary
+appreciably in power during application; that only batteries supplying
+a fairly constant current were fitted for medical use, and that all
+others should be rejected. We then considered different batteries,
+both fixed and portable; that while large fixed low tension batteries
+were unquestionably superior in their therapeutic effects, patients
+unfortunately were not always movable, and that a portable battery
+became, therefore, a _sine quâ non_; that portable batteries might
+be conveniently divided into two classes, one in which electricity
+was generated by the elements being immersed in an exciting fluid
+only during actual use, and being taken out of the fluid immediately
+after use; and the second that in which no removal of the elements was
+necessary; that the Voltaic current was graduated into doses by some
+arrangement determining the number of cells to be employed in each
+case, but that this method, while practically useful and sufficient,
+failed to convey an exact idea of a measured and unvarying quantity
+of electricity; and that it had been contended that by the use of a
+galvanometer, doses of electricity might be as accurately administered
+as so many grains or minims of ordinary medicines, but that, perfect
+as the theory might be, I had personally failed to obtain help in
+practice from a galvanometer; that next in importance to a method of
+dosage, was it to be able to instantly change the direction of the
+current, or to at once turn it “off” or “on,” in addition, of course,
+to the fundamental requisite of a continuous supply of electricity of
+sufficient quality and quantity.
+
+We next considered the induced or _Faradaic_ current, so-called,
+which I reminded you is not a current at all, but a rapid discharge
+or succession of those momentary shocks, each perfectly distinct in
+itself, and separated by an appreciable interval of time from its
+fellows, which Faraday discovered to be generated or induced by a
+Voltaic current flowing along a wire in other wires parallel to, but
+separated from, the first wire; that by winding the two wires upon two
+movable reels and introducing one within the other, not only might
+these _secondary_ currents be multiplied indefinitely in proportion to
+the number of spirals of wire, but by introducing or withdrawing the
+one from within the other an exact method of graduation was afforded
+us. I pointed out to you that there was no therapeutic distinction
+between the so-called primary and secondary currents, and I recommended
+you therefore to use only the currents of the secondary coil. I then
+showed you the construction of Faradaic instruments, and of instruments
+combining both Voltaic and Faradaic currents, and our survey was
+completed by a consideration of the different varieties of conducting
+wires or cords, and my recommendation of thin gutta-percha covered
+copper wire as generally superior to any other form. We have to-day
+to study methods of applying electricity, and to learn how to use the
+instruments, with the construction and properties, of which I trust you
+are now familiar; and, Gentlemen, it is well worth your while to have
+obtained this knowledge, for its possession will not only enable you to
+readily rectify any faults in the working of your batteries, but the
+necessity of sending them to the instrument-maker may be often avoided.
+
+We have already studied methods of applying Franklinism.[10]
+
+Voltaization and Faradization may both be applied either generally--as
+in the different forms of electrical baths--or locally.
+
+[SN: The Application of Electricity.]
+
+A convenient method of applying electricity, when very strict
+localization is not required, is to insert the feet and hands of the
+patient, or one foot and one hand, as the case may be, in separate
+vessels containing tepid salt and water with which the conducting wires
+of the battery are in contact, the current being allowed to circulate
+during the time required. Ordinary foot-pails, basins, or jugs, will
+fulfil every requirement; while thick telegraph wire answers well to
+connect the battery with the vessels of water, as it is little liable
+to break and wears well. A variety of the constant current (originated
+by Dr. Radcliffe) is very readily applied in the way just described,
+with the addition only of some means of insulating the patient and the
+accessories, and of a length of ordinary uninsulated copper wire.
+[SN: Radcliffe’s Positive Charge.] Dr. Radcliffe believes that an
+administration of _positive_ Voltaic electricity, somewhat analogous
+to the charge of Franklinic electricity, is frequently beneficial. He
+insulates the patient and the accessories, and having connected the
+negative pole with the earth by a wire which he calls a “ground-wire,”
+he allows the current to pass. With careful insulation the negative
+electricity passes away by the wire, and while the current circulates
+the patient continues “charged” with positive electricity. There must
+be two wires from the negative pole, one to be applied, as well as
+the positive, to the patient, and the other taken “to earth.” This
+latter may be conveniently attached to a chandelier or gas-pipe,
+which always gives a direct metallic conduction to the ground. A
+perforated vulcanized indiarubber mat, or a sheet of gutta percha, or
+a glass-legged stool can be employed to insulate the patient and the
+accessories.
+
+[SN: The Electric Bath.]
+
+There is another generalized application which has been much advocated,
+and remarkable statements have been put forth, not only of its curative
+power in almost every disease, but also of its purely physical and
+chemical effects--I refer to that by “Electric Baths,” several
+establishments of which exist in London, but you need not send your
+patients to them. You can teach them how to take an electric bath in
+their own bed or bath-room. A bath sufficiently large for the patient
+to recline in it should be insulated by glass supports (four stout
+tumblers will do very well), and filled with water at a temperature of
+95 to 100 degrees. A metallic plate in connection with one pole may be
+inserted at the head, and a second plate in connection with the other
+pole at the foot of the bath. The patient should be protected from
+direct contact with either plate by sitting upon a wooden framework.
+With a sufficiently powerful current, a portion of the electricity
+will pass through the body of the patient reclining thus between the
+poles. Another method is to connect the water with one pole, and for
+the patient to grasp in his unimmersed hands a copper bar covered with
+wet flannel, and in connection with the second pole of the battery; or
+a conductor from this second pole may be held almost, but not quite,
+in contact with any part of the body immersed in the water. Either
+the Voltaic or Faradaic current may be used. Ordinary water with the
+Faradaic current, but salt and water, or acidulated water, with the
+Voltaic.
+
+[SN: General Faradization.]
+
+Another more generalized application is that introduced by Beard and
+Rockwell, under the name of “General Faradization.” The patient sits
+with his naked feet upon a sheet of copper connected with one pole,
+while the other pole is connected by a moistened sponge with the
+left hand of the operator, who passes his disengaged hand, slightly
+moistened, over the muscles of the patient, and sometimes over his
+whole body. The current, I need hardly say, passes through the body of
+the operator before it reaches the patient, and the sensation he feels
+is his chief guide to its graduation.
+
+[SN: Centralized Galvanization.]
+
+Another general application is the “Centralized Galvanization” of the
+same authors, in which their object is to bring the whole central
+nervous system under the influence of the Voltaic current.
+
+They place one pole--usually the negative--at the epigastrium and pass
+a large moistened sponge from the positive pole over the forehead and
+top of the head, along the inner border of the sterno-mastoid, from the
+stylo-mastoid fossa to the sternum, and down the entire length of the
+spine, from the nape of the neck to the sacrum. The brain, sympathetic
+and spinal cord, and the pneumogastric nerves are thus submitted to the
+influence of the current.
+
+[SN: Localized Electrization.]
+
+But the great majority of cases require--not a generalized, but a
+strictly localized application, and for the fundamental principles of
+all methods of localized electrization we are indebted to the late Dr.
+Duchenne (the “father of electro-therapeutics”), for before him no one
+had attempted any local application of electricity that could properly
+be so called. Indeed, to Duchenne may be fairly ascribed the very
+birth of medical electricity as a branch of therapeutics, and in the
+true and kindly words of the _Lancet_, when announcing his death:--“No
+field of work was ever seized upon with more eagerness; ever cultivated
+with more earnestness; or perhaps ever made to yield a better harvest
+than that which the discovery of induced electricity placed at the
+disposal of the man whose genius was the first to recognize, and
+his talents to secure, the opportunity it afforded. Taking his work
+at its lowest estimate, he was a man to whom medical science owes a
+large debt of gratitude, and whose memory deserves a warm tribute of
+regard.” Duchenne’s two test experiments, demonstrating the fundamental
+principles of his method, I will now repeat upon the posterior surface
+of my left forearm. I propose to arrest Faradism in the skin, without
+allowing it to stimulate the subjacent muscles. To do this it is
+necessary for the skin to be quite dry--moisture, as you know, being
+a conductor of electricity--and to make sure of sufficient dryness, I
+sprinkle the skin with a little starch powder. I now apply to the dry
+skin the dry metallic conductors of an induction instrument in action.
+I am afraid you cannot see, Gentlemen, the small sparks produced as
+the two electricities combine upon the cutaneous surface, or hear
+the slight crackling sound produced, but you observe no muscular
+contraction, and what I feel is a superficial and evidently cutaneous
+sensation. I now replace the dry conductors by well-moistened sponges.
+You observe that I have not altered the power of the current, but that
+there is energetic contraction of the extensor muscles. This is quite
+involuntary, and is due to the electric irritation of the branches of
+the motor nerves.
+
+It follows from these experiments that we may, at pleasure, arrest
+electricity in the skin, and that without puncture or incision we may
+make the current traverse the skin, and concentrate its action upon
+subcutaneous organs. It was at one time objected that the muscular
+contraction was the result--not of irritation limited to the muscle or
+its motor nerves--but of reflex action; but Duchenne demolished this
+objection by a vivisection. Having removed the skin from the face of a
+living rabbit--to whom chloroform had been administered--he divided the
+facial nerve of one side only, in order that the muscles supplied by
+it might be cut off from all connection with the cord. He then applied
+electric excitation to each muscle of the face, alternately, on the two
+sides. The muscles contracted separately and equally on both sides.
+He then destroyed the brain of the same animal, in order to place the
+cord in a condition favourable to the production of reflex action, and
+again excited the muscles as before. The results were absolutely the
+same.[11]
+
+Muscular electrization may be produced either--as I have just shown
+you--by placing the conductors upon the muscle itself, a procedure
+termed _direct_ or _intra-muscular_ electrization, or by exciting only
+the motor nerve trunk, which is termed _indirect_, or _extra-muscular_
+electrization, and which we shall consider presently.
+
+[Illustration: FIG. 13. Cylindrical Sponge-holder.]
+
+[SN: Different kinds of Rheophores.]
+
+For direct excitation of the larger muscles it is convenient to use
+well-moistened sponges, contained in cylinders of different sizes,
+or metallic disks, covered with wet leather and having conveniently
+shaped handles. A useful size of cylinder is one such as this (see
+Fig. 13), having a depth of about 1-1/2 by 1-1/8 inches, which allows
+the sponge to fairly fill it, while in such forms as this--6 inches
+by 1--when the sponge is inserted the lower three-fourths of the
+cylinder is empty, and the conduction of the current liable to become
+imperfect. Such a cylinder as this, without any insulating handle at
+all, is worse than useless, and is a still persisting relic of the
+barbarous time when the patient was invariably electrized by causing
+him to hold the conductors one in each hand, a proceeding extremely
+dangerous in certain pathological conditions, and in other cases not
+likely to be of benefit to him. The insulating handles should be well
+hollowed out, that they may be used, lying comfortably between the
+fingers, when holding two in the same hand. The disk rheophore (see
+Fig. 14), a metallic button covered with wash-leather, is extremely
+useful; it has the advantage over the sponge of allowing firm pressure
+to be made without the inconvenience of water being squeezed out, while
+by using its edge it may be made to answer in the majority of cases
+for a pointed conductor, which is fitted chiefly for application to
+very small muscles, such as the interossei and some of those of the
+face. The wire is attached to the conductor by being screwed into the
+socket (see a′, Fig. 14). A conducting cord is very apt to get frayed
+at the point of juncture, and that the wire which I recommend is
+not open to this objection is not the least of its advantages. [SN:
+Direct Electrization.] In direct electrization the rheophores should
+be firmly pressed down upon all points of the surface of the muscle,
+that all of its fasciculi may be equally electrized. With the Faradaic
+current it is convenient to apply the rheophores, held in the same
+hand (see Fig. 15), for from twenty to thirty seconds, to every part
+of the surface of the muscle, or group of muscles, promenading them
+as nearly as may be in lines from the origin to the insertion of the
+muscles. If the rheophores are not held in the same hand care should be
+taken to keep them near to one another, for the tension or penetrating
+power of Faradism is so great, that without this precaution there will
+be liability to excite reflex action. With the interrupted Voltaic
+current this liability does not exist, and a better plan when using it
+is to hold the sponge from the positive pole stationary, near to the
+origin of the muscles, and to stroke or paint as it were the entire
+muscular surface with the sponge from the negative pole, gliding it in
+lines from the position of the positive. In using the constant Voltaic
+current both sponges must be held quite immovable, and so applied
+it differs altogether in its effects from the very same strength of
+current interrupted by moving the conductors. I will demonstrate
+these different applications upon the extensors of my left wrist and
+fingers--Faradism--Voltaism--Constant Current.
+
+[Illustration: FIG. 14. Metallic Disk, covered with Wash-leather.]
+
+[Illustration: FIG. 15. Method of holding Sponge-holders with Sponges
+inserted.]
+
+[SN: Indirect Electrization.]
+
+Indirect, or extra-muscular electrization, next claims our attention.
+You will recollect that it is produced by acting upon the special
+nerve trunk and its branches, instead of by placing the rheophores
+upon the muscle itself. We may thus call a motor nerve into action
+without affecting the cutaneous nerves, and with a minimum of power
+of current, and necessarily a minimum of sensation which hardly ever
+need amount to actual pain. This method is preferable, therefore, in
+cases where we desire to produce muscular contraction and as little
+sensation as may be, and again when the sedative influence of the
+constant Voltaic current is required to be localized in any special
+nerve. In its application it is convenient to place a good-sized
+sponge connected with one pole upon an indifferent part of the body,
+such as the sternum, and to apply a pointed conductor from the
+second pole directly over the course of the nerve it is desired to
+act upon. Speaking generally, these motor points as they are called
+may be selected by reference to a good anatomical plate, but only
+approximately, for we know that it is common to find variations
+in the course of the nerves and in the mode of their distribution
+among the muscles, and this being so, it is well when we propose to
+act upon a motor or mixed nerve (which is not paralyzed), to make
+sure that we are localizing the current in it by producing for a
+moment the contraction of its muscles and then marking the spot by
+touching it with a pencil of nitrate of silver. This, of course, is
+only necessary where in our subsequent electrization we do not wish
+muscular contraction, as in the treatment of neuralgia.[12] I will
+demonstrate indirect electrization by Faradizing the median nerve in my
+left forearm above the wrist, and before it passes beneath the annular
+ligament of the carpus. It lies a little below the surface, between
+the tendons of the flexor carpi radialis and palmaris longus. You
+observe that its muscles powerfully contract and oppose the thumb to
+the other fingers, at the same time abducting it. There occurs also a
+slight flexure of the first phalanges of the index and middle fingers.
+Professor Ziemssen in his work on Medical Electricity has published
+some extremely accurate plates of the motor points of the body, and I
+have grouped together the more important of them in a chart or map for
+convenient reference.[13] Ziemssen’s method of procedure was to find
+out experimentally the points where the application of electricity most
+readily produced muscular contraction. He then marked these points with
+coloured chalk, and after a sufficient number of trials with nitrate of
+silver. Photographs of the parts thus marked were taken and afterwards
+transferred to the wood blocks. These figures may therefore claim to be
+true to Nature, although they may not be absolutely correct for every
+individual. Ziemssen verified their approximate exactitude by following
+the course of the nerves very accurately in the dissecting-room and
+observing their points of entrance into, and their course within, their
+muscles, with constant reference to the surface of the body; but he
+was not completely satisfied until he had determined the motor points
+upon the skin immediately after death, and before the reaction to
+electricity had disappeared, and submitted these points to the scalpel.
+The results of the three methods coincided perfectly.
+
+[SN: Cutaneous Electrization.]
+
+We will next consider cutaneous electrization. I have already shown you
+that when the skin and the conductors are both quite dry, a Faradaic
+current of moderate power (and practically this form of electricity
+is always employed in cutaneous electrization) does not penetrate the
+skin, but is localized upon its surface. There are three methods of
+applying cutaneous Faradization--the method that we employed--that
+of “_Metallic Conductors_;” the “_Electric Hand_,” as it is called,
+in which the operator having applied one conductor to some little
+sensitive part of the patient’s body, holds the second in his left, and
+passes the back of his right hand over the points he wishes to excite,
+these points of the patient’s skin and the back of his hand being dry,
+and sprinkled with absorbent powder; and the “_Wire Brush_,” a brush
+of metallic wire, which replaces one of the conductors, and which is
+moved over the skin. With a strong Faradaic current this wire brush
+becomes the most powerful of all the excitants of the skin which do not
+disorganize its structure; in fact it was proposed by some scientific
+parliamentary philanthropist as a substitute for flogging in the navy,
+and I have no doubt that more intense pain may be produced by it than
+by any application of the cat, however well laid on!
+
+[SN: Electrization of Internal Organs.]
+
+The methods of electrizing internal organs need not detain us long.
+The rectum and muscles of the anus may be electrized by introducing
+into the rectum the rectal rheophore, a metallic stem insulated by gum
+elastic, and moving it over the internal surface, bringing it also into
+contact with the levator and sphincter ani. A well-moistened sponge
+connected with the other pole may be applied to the abdominal muscles
+or to the neighbourhood of the anus. The rectum must be first freed
+from fæcal matter.
+
+The bladder is most readily electrized by the introduction into the
+rectum of the rectal rheophore, and into the bladder--previously
+emptied--of a curved metallic sound insulated by an elastic catheter
+to within an inch of its vesical extremity. This sound must be brought
+into contact successively with all points of the neck of the bladder.
+The uterus by the introduction of the rectal rheophore, connected
+with one pole, to the os uteri, and by the application of two sponges
+from the other pole, one to the abdominal parietes, the other to the
+lumbar region. The larynx, externally by one sponge to the nape of the
+neck, and the second to the exterior of the larynx; or, internally, a
+sponge to the neck as before, and the introduction by the aid of the
+laryngoscope of a small bit of sponge at the end of a curved metallic
+stem, insulated by a gum-elastic catheter, the current not being
+allowed to pass until it is seen by the laryngeal mirror that the
+sponge is in the desired position. The male genital organs by moist
+rheophores to the scrotum over the testicle; but if it be desired to
+excite the vesiculæ seminales, the bowel is first emptied, the rectal
+rheophore is then introduced and so directed that its olive-shaped
+termination may be brought into relation with the vesiculæ. For this
+purpose it is sufficient to move the rheophore from right to left and
+_vice versá_. A powerful current will penetrate the intestine and reach
+the vesiculæ, exciting them energetically. The circuit is completed by
+a second rheophore placed on an unsensitive part of the body.
+
+[SN: Electrization of the Central Organs.]
+
+In electrization of the central organs of the nervous system, the
+Voltaic current is alone used, and in its application to the brain,
+the sympathetic nerves, or the organs of the senses, especial
+circumspection must be employed. As a general rule it should not be
+had recourse to when central excitement is contra-indicated, and
+in _all cases_ the minimum dose should be commenced with, and the
+application discontinued upon the occurrence of giddiness, nausea, or
+cerebral symptoms. With these precautions the brain may be electrized
+by well-moistened sponges applied to each mastoid process, to each
+temple, or to the frontal and occipital protuberances. The sponges
+must be held immovable. To galvanize the superior cervical ganglion of
+the sympathetic, one electrode of small size must be deeply pressed
+into the auriculo-maxillary fossa, and the other with a good-sized
+sponge applied over the sixth or seventh cervical vertebra, or to the
+manubrium sterni, close to the border of the sterno-mastoid. The spinal
+cord may be electrized by keeping one sponge, usually the positive,
+stationary, and moving the other up and down by the sides of the
+vertebræ, or one pole may be applied to the spine, and the other held
+to a nerve or muscle. The retina by a moistened conductor to the closed
+eye, and the second to the temple or to the mastoid process of the
+same side. The auditory nerve by one conductor tipped with sponge and
+inserted to the bottom of the meatus, the second being held in the hand
+of the opposite side; or the meatus may be filled with tepid water, and
+a metallic wire traversing the axis of a vulcanite tube may be immersed
+in the water, the second conductor being a well-moistened sponge to
+the nape of the neck. Direct application to the ocular muscles or to
+the conjunctiva is usually inadmissible, but one pole may be placed
+over the facial nerve below the ear, and the other applied to the
+closed eyelid, or the operator may use the forefinger of his right
+hand, covered by a finger-stall of wet linen as an electrode, passing
+the current through his own body by holding a moistened sponge from
+one pole in his left hand, the conductor from the second pole being
+similarly held in one of the hands of the patient. This application
+is not only convenient, but it is calculated to allay the fears of a
+sensitive patient: or a pointed conductor, covered with wet leather,
+may be connected with one pole, and its point held immovable and
+firmly pressed down upon the orbital margin, as near as possible to
+the position of the muscle it is desired to excite, while the patient
+touches at intervals the sponge from the second pole held by its
+insulating handle in the operator’s disengaged hand.
+
+[SN: Electrolysis Needles.]
+
+The chemical action of a continuous Voltaic current is sometimes useful
+in the removal or dispersal of tumours, and in the consolidation of
+aneurisms, one or more needles being introduced into the tumour, and
+connected with a Voltaic battery. I shall discuss this subject in our
+next Lecture, but I have here some of the most generally useful needles
+(Fig. 16), and I have had made for them holders with eyelet-holes
+for the attachment of conducting wires which render the operator
+independent of special conducting cords, for with a coil of insulated
+wire and a pocket knife he can fit up his needles in a few minutes in
+any way best adapted to his proposed operation.
+
+[Illustration: FIG. 16. Electrolysis Needles and Needle-holders. By
+pressing the spring side B, the holder opens as shown in C, to grasp
+the needle D. The wire is twisted into the eyelet hole-A.]
+
+[SN: Precautions in mode of Application.]
+
+Having now considered the more generally useful methods of application,
+it may perhaps not be out of place to remind you in concluding this
+part of our subject that certain precautions are necessary to be
+observed. We must keep constantly before our attention that we are
+prescribing or administering an exceedingly powerful remedy, and
+with all new patients we should commence with a minimum dose, watch
+its effect, and if we need to increase it, do so gradually--_e.g._,
+muscular contraction being sought we must use the power just sufficient
+to produce it and _no more_--and so on with other applications; and it
+is especially necessary to use care in applying the Voltaic current to
+the face, neck, or any part of the head. Duchenne blinded a patient by
+suddenly applying a current from 40 cells to the facial muscles, and
+he had the candour to publish his misfortune. Sudden applications and
+sudden cessations should especially be guarded against. The cessation
+shock can, of course, only occur in cases where the conductors having
+been held immovable, and the current gradually increased, one or both
+of them has been abruptly, and it may be inadvertently, removed; and
+I have known a patient so frightened by such a cessation shock as to
+decline further treatment. The negative pole of a Voltaic battery
+will, if frequently applied to the same spot, soon cause a sore,
+and to avoid this the point of application should be slightly varied
+occasionally; and let me impress upon you, Gentlemen, the importance
+of always testing electricity upon yourselves before applying it to
+a patient. Use as many galvanometers, or so-called “instruments of
+precision,” as you like, but use in addition the back of your left
+hand as a convenient approximate test for the Voltaic, and your
+thumb muscles for the Faradaic current, except when about to apply
+electricity to your patient’s head or face, and make it then an
+invariable rule to first apply to your own face the same strength
+of current you are about to administer to your patient’s. If you
+authorize your patient to have treatment carried out at home impress
+this rule upon whosoever electrizes him. Under such circumstances
+it is especially imperative, for there is great belief, even with
+educated persons who ought to know better, that the benefit derived
+from electrization is in exact proportion to the pain given by it, and
+a little personal experience is a very wholesome corrective to such
+a notion. Graduate your dose, then, by the number of cells employed
+checked by testing its effect, and do this upon each application, for
+there is no certain means of securing that the strength of either a
+Voltaic or a Faradaic current shall not have varied from day to day.
+
+We have now studied, Gentlemen, medical electricity, electrical
+instruments, and methods of application. In our next and concluding
+Lecture I propose to discuss the assistance that electricity affords us
+in diagnosis, prognosis, and treatment.
+
+FOOTNOTES:
+
+[10] See pages 6-17.
+
+[11] See Duchenne (de Boulogne) “On Localized Electrization and its
+Applications to Pathology and Therapeutics” (English Edition). Part I.,
+pp. 38-40. London: Churchill.
+
+[12] It is often of imperative importance in the administration of
+the “constant” current that we should really localize it--not in name
+only, but in fact--in some special nerve; and this is not always quite
+so easy in practice as in theory. [SN: Importance of exactitude in
+administering a constant current.] To secure the result we desire, we
+must see that the cord or wire from the terminals of the battery to
+the electrodes is without flaw; that the electrodes are well moistened
+and placed firmly in the position determined upon; and especially
+that they are held quite immovable during the entire application, for
+if not maintained immovable, we shall be using not a “constant” but
+an “interrupted” current with totally dissimiliar physiological and
+therapeutical effects! We must satisfy ourselves that the current from
+our battery is also constant, and that we so apply it to our patients
+that the affected nerve shall be--as it is called--included in the
+circuit--that is, between the poles, and that the current circulates
+through this nerve as perfectly and continuously as it would through a
+piece of wire connecting the terminals of the battery.
+
+[13] Published by Churchill.
+
+
+
+
+LECTURE III. ELECTRICITY IN DIAGNOSIS AND TREATMENT.
+
+
+A.--_Electricity in Diagnosis._
+
+GENTLEMEN,
+
+[SN: Electro-Diagnosis.]
+
+Our first two Lectures were devoted to a consideration of electrical
+instruments; the different varieties of electricity; and the most
+approved methods of applying them in therapeutics. To-day we have to
+study their uses in diagnosis, prognosis, and treatment.
+
+[SN: Test of Electro-Irritability.]
+
+The chief use of electricity in diagnosis is dependent upon its power
+of evolving muscular contraction. We have seen--as I demonstrated
+to you upon my left forearm--that both muscles and nerves, when
+in a normal condition, respond to the stimulus of electricity. In
+disease this response, or irritability, may remain unaltered, or it
+may be increased, decreased, or abolished; and our first step in
+electro-diagnosis should therefore be to ascertain the exact condition
+of electro-contractility. As in practically almost all our cases we
+have to do with altered reaction existing only in one nerve or muscle,
+or in one of two symmetrical groups of nerves or muscles, we possess
+a ready means of testing irritability by ascertaining its relative
+condition upon opposite sides of the body, as, for example, in an
+ordinary case of hemiplegia. [SN: Test of Farado-Irritability.] In
+examining such a case electrically--and the principles of procedure are
+the same in all cases--it is convenient to commence our investigation
+with the Faradaic current, and to ascertain the _lowest_ power which
+will call into action any one of the muscles of the healthy side,
+and then to apply this same strength of current _to identical points
+of the corresponding muscle on the diseased side_, noting whether
+it causes contraction. If so, we decrease the power of the current,
+when if contraction still occurs there is increased irritability, or
+_vice versá_, as the case may be. Having ascertained the condition
+of the muscle we proceed similarly to test its motor nerve, for
+we shall see hereafter that in certain diseased conditions muscle
+and nerve irritability are affected unequally. One conductor being
+held to an indifferent part of the body we apply a fine-pointed
+conductor to the most superficial point in the course of the nerve,
+in the way that, as you will recollect, I electrized my left median
+nerve. [SN: Test of Voltao-Irritability.] We next submit the muscle
+and nerve to similar examination with the Voltaic current. Holding
+both conductors immovable, we interrupt the current for a moment
+by moving the “key” of our battery, or if it is not provided with
+a key, while one conductor is stationary, we break the current by
+lifting and reapplying the other. It is essential that on both sides
+there should be exact similarity in the application, and that the
+electrodes should be placed on identical points of the muscle, and
+this is especially important with the Voltaic current, for healthy
+muscle responds to it more readily when it flows down the limb, that
+is, with the positive pole nearest to the spine, and the negative
+farther from it than when it flows up, and consequently a reversal
+of the poles will influence the result. [SN: Rule for strength of
+Current.] In testing a case in which there is equal disease upon
+both sides--as in some cases of paraplegia--we must be guided by
+a knowledge of the strength of current usually required to induce
+contraction. As a general rule, unless a current that causes energetic
+and painful action in the muscles of the ball of the thumb produces
+some contraction, irritability is impaired. If, in our examination of
+the muscle, we find irritability normal to both currents, we have proof
+of the integrity of the muscular tissue. If the muscle also responds
+by contraction to electrization of its nerve, we have further proof
+that the nerve is healthy, and also the spinal cord at the point of
+origin of the nerve. [SN: Electro-Irritability diminished.] If we find
+the irritability lessened, there is disease of either muscular tissue,
+nerve or cord; and, as a rule, this will be in direct proportion
+to the amount of diminished irritability. [SN: Electro-Irritability
+increased.] Increased irritability points to increased vascularity
+or irritative lesion; but in such cases we very seldom require the
+aid of electricity to complete our diagnosis. [SN: Voltao-Irritability
+increased.] The reactions of Faradism and Voltaism are usually
+equal, but in some cases in which muscular response to Faradism is
+diminished or abolished the muscular reaction to an interrupted
+Voltaic current is not only preserved but increased. The diseased
+muscle will respond much more readily to the Voltaic current than the
+corresponding muscle of the healthy side; while at the same time it
+will be found on examining the nerve that there is equal diminution
+to both currents. [SN: Diagnosis of Peripheral from Central Disease.]
+This increased muscle reaction is due to the special irritability of
+muscular tissue, and is quite independent of any nerve influence. It
+exists only in peripheral and never in central lesion, and by it we
+obtain an absolute diagnosis of such cases as local paralysis of the
+facial nerve from facial hemiplegia, paralysis of the extensors of the
+wrist and fingers, due to lead poisoning, from commencing muscular
+atrophy, or progressive muscular atrophy from paralysis from section
+of a nerve--all important questions as affecting treatment. [SN: “The
+Degenerative Nerve Reaction.”] It is known as the “degenerative nerve
+reaction,” as it always follows when a nerve trunk is involved in the
+lesion. There is then diminution of Faradaic irritability through both
+nerve and muscle, diminution of reaction to the Voltaic current when
+the rheophores are applied over the nerve, and increase of reaction
+when they are applied over the muscle; but there is no relation between
+these interesting variations in the electrical condition of nerve
+and muscle, and the degree of paralysis to the will, for there may
+be perfect muscular paralysis, as in hemiplegia, when the electrical
+condition of both nerve and muscle is unchanged; but, on the other
+hand, in muscles equally paralyzed we may find absolute electrical
+changes in some, and none in others. We may often positively predict
+that these latter will rapidly recover--one instance of the use of
+electricity in prognosis.
+
+After long disuse of healthy muscles a slight degree of diminution
+of electric irritability may sometimes be present, but this is
+always restored by two or three Faradizations, and its existence is
+hardly likely to present any difficulty in diagnosis. [SN: Central
+Paralysis.] With this qualification we find that in paralysis from
+brain disease electric irritability is normal, except when irritative
+lesion is present, and then it is increased. [SN: Spinal Paralysis.]
+In paralysis from disease of the substance of the cord irritability is
+diminished, and this will sometimes aid us in the diagnosis--not always
+easy--between commencing paraplegia and locomotor ataxy. In ataxy--at
+least in its early stages--irritability is normal. In progressive
+muscular atrophy it is normal as long as any muscular tissue remains.
+[SN: Hysterical Paralysis.] In hysterical or emotional paralysis
+irritability is normal, but electro-sensibility is often much impaired.
+[SN: Diagnosis between Real and Feigned Disease.] [SN: Electricity as
+Proof Positive of Death.] These variations will sometimes enable us to
+distinguish between real and pretended disease; and, finally, absolute
+abolition of electric irritability in all the muscles of the body is
+proof positive of death, so that those extraordinary people who are
+haunted by a fear of being buried alive may rest contented if they
+provide that after apparent death, and before burial, their bodies
+shall be submitted to thorough electrical examination.
+
+Considered solely as an aid to diagnosis, we can get little more
+assistance from electricity than I have pointed out to you.
+
+And now, Gentlemen, we come to the consideration of the last and
+most important branch of our subject--electricity as a therapeutic
+agent--its scope and its limitations as a remedy.
+
+[SN: Limitation of Electricity as a remedy.]
+
+Is it needful for me to say that there is too much belief and too much
+unbelief in its therapeutic power?
+
+The men who estimate it fairly are quite the minority. It is
+generally either much undervalued, or else believed to be a sort
+of modern “_Elixir Vitæ_,” capable of curing a hopeless hemiplegia
+from destruction of brain tissue, or a paralysis agitans from
+senile degeneration. Although electricity will do neither of these
+impossibilities, yet, considered as a remedy, it is of great value in a
+wide margin of diseases. It will either stimulate or soothe both nerve
+and muscle, according to its variety and mode of application; it will
+frequently restore voluntary movement, it will relieve pain, heighten
+temperature, recall sensation, coagulate the blood, and dissolve or
+slowly cause the absorption of tumours.
+
+
+B.--_Electricity in Treatment._
+
+
+FRANKLINIZATION.
+
+Franklinization as the oldest form of electricity and as partaking more
+of a general application than a local, may be conveniently considered
+first.
+
+Administered by the various methods described at pages 6 to 17, it has
+been found in the practice of the National Hospital for the Paralyzed
+and Epileptic, and in private cases coming under my own observation,
+of considerable value. [SN: Facial Neuralgia.] _Facial neuralgia_, for
+example, which has resisted other modes of treatment, may occasionally
+be relieved with rapidity and permanently by drawing sparks along the
+track of the affected branch or branches of the trifacial nerve. [SN:
+Sciatica.] [SN: Facial Spasms.] Sometimes also _obstinate sciatica_
+has been partially or altogether removed; so also _facial spasm_, (tic
+convulsif), as in the following instance, for permission to quote
+which I am indebted to Dr. Radcliffe. A female, forty-eight years
+of age, had suffered for thirteen years from spasm of the muscles of
+the left side of the face. The distortion produced by the spasm was
+very great, and was apt to be so much exaggerated by slight emotion,
+even such as would be caused by having to address a stranger, as
+to make speaking difficult, and to prevent proper attention to her
+occupation as a small shopkeeper. An experimental trial was made of
+electrization by sparks along the lines of the nerves distributed
+to the affected muscles. After the third application the spasm was
+manifestly relieved, the distortion being diminished, and the paroxysms
+occurring less frequently. By persisting with this treatment thrice
+weekly over a period of two months, so great an amount of relief was
+obtained that little distortion of the face remained, and the patient
+was able to pursue her business with comfort. [SN: Emotional Aphonia.]
+Electrization by sparks over the larynx has been found so effective
+in the relief of cases of hysterical or _emotional aphonia_, even
+those of long standing, that it is well to use it in the treatment
+of these cases before having recourse to induced electricity. In
+six or seven recent cases, this form of application repeated twice
+or thrice effected a complete cure. One of these cases was of nine,
+another of six months’ duration. The remainder had lasted from four
+weeks to three months. The seventh case did not receive any benefit
+from the use of static electricity, and the other forms of the agent
+proved equally ineffective. The case recovered slowly under general
+treatment. [SN: Localized Excessive Sensitiveness.] Electrization by
+sparks over the affected spot has often proved of great benefit in
+removing the _localized excessive sensitiveness_ not unfrequently found
+in hysterical cases, particularly in the spinal region. [SN: Tremor.]
+_Tremor_, whether general or local, is sometimes largely relieved by
+insulating the patient, and charging him with positive electricity for
+a period of twenty minutes to half an hour. Other applications failing,
+I would advise always, in cases similar to the above, a fair trial, say
+half a dozen sittings, of Franklinization.[14]
+
+
+ELECTRIZATION.
+
+[SN: Electro-therapeutics.]
+
+We have seen that if we send a shock of electricity through a motor
+nerve the nerve becomes excited, and responds by contraction of its
+muscles. One form of electricity, then, is a stimulant, but, unlike
+other stimulants, it admits of its action being exactly localized and
+its influence instantly withdrawn. [SN: Effects upon Nutrition.] There
+first results from such an application a larger flow of blood to the
+part, with subsequent increase of temperature and general improvement
+in nutrition. [SN: Electricity as a Stimulant.] If muscular contraction
+results, it acts in addition as an artificial gymnast, imitating
+natural muscular action in a way quite impossible to any agency but
+electricity. It is in cases where there is muscular response to it,
+but not to the will, that it is often of immense service, and it can
+then be replaced by no other remedy known to medicine. Need I say that
+in such cases its dosage is of importance; that only a certain amount
+of stimulation being needed, this may not be carried to the point of
+exhaustion, and that the application should not be continued for too
+long a time. From ten to twenty minutes for an entire application is
+usually sufficient. So much for the stimulant effects of electricity
+when administered under either of its forms in a series of intermittent
+“shocks.”
+
+[SN: The Constant Current.]
+
+But we get a very different result when we employ a constant
+current--that is, a continuous stream of electricity without
+interruption or break in it, and without appreciable variation in
+its strength. One effect of the administration of such a flow of
+electricity is that of a sedative, for it possesses the most remarkable
+power in relieving pain. We have all heard of the benefit of the
+“constant current” in neuralgia, and it is worthy of its reputation,
+and will not disappoint us if we administer it with the precautions
+noted in my last Lecture. (See foot-note, page 52.)[16]
+
+[SN: Electricity possesses an influence _sui generis_.]
+
+Electricity, then, according to its variety and method of
+administration, is both a stimulant and a sedative; but although these
+words may be used as convenient distinctive terms, there is no doubt
+that it is something more, and that it possesses an influence quite
+_sui generis_, dependent, perhaps, upon its modification of the natural
+state of the electricity of the human body. [SN: Restorative power of
+Voltaic Current.] The Voltaic current enjoys a remarkable restorative
+power, for it has been found that its prolonged action upon a nerve
+immediately after death will preserve its irritability for a length
+of time, and that even in a dead nerve the lost irritability may be
+again established. [SN: Electricity in Fatigue Diseases.] Dr. Poore
+has particularly studied this restorative or refreshing effect of the
+Voltaic current, especially in its application to a class of diseases
+(termed by him “fatigue diseases”), and of which writer’s cramp is a
+type, chiefly characterized by an intense feeling of fatigue upon any
+attempt being made to execute certain muscular movements. This tired
+feeling is at once removed by the application of the Voltaic current,
+either to the muscles affected or to their nerves, and this result Dr.
+Poore believes to be explained by an increase in the susceptibility
+of the muscles to the stimulus of the will. Be this as it may, such
+an application is often most comforting, and it is not unusual for
+the patient to experience immediate and most grateful relief, and to
+beg for its repetition. Many electro-therapeutists will attribute
+this relief to the production of, as it is termed, a condition of
+electrotonus, about which, and its importance in electro-therapeutics,
+a great deal has been written and disputed. [SN: Electrotonus.]
+Electrotonus is simply a name given to signify the state of a nerve
+while it is being traversed by an artificial Voltaic current. The
+effects of such an application, of course, depend chiefly upon the
+power of the current. If sufficiently powerful complete functional
+destruction of the nerve would result, as by a lightning flash; and as
+the tension of electricity is greater at one pole than the other, we
+naturally, with currents of a certain strength, discover modifications
+of irritability in the nerve when specially influenced by either pole.
+The irritability is increased in the half nearest to the negative pole
+(Katelectrotonus), decreased in the half nearest to the negative pole
+(Anelectrotonus), and unchanged at a point midway between the two poles
+(point of indifference). The production of the general electrotonic
+state is of importance. I believe these lesser variations of
+anelectrotonus and katelectrotonus to be practically of little moment,
+and I advise you to disregard them in therapeutics.
+
+[SN: Impotence.]
+
+The restorative effect of the Voltaic current is frequently of benefit
+in sexual weakness. In functional cases, the current may be applied to
+the spine--positive pole to mid-dorsal region; negative well painted
+over lumbar twice daily for ten minutes upon getting up and going to
+bed. This treatment was adopted in the case of a gentleman, fifty years
+of age, who consulted me for gradual decrease of sexual power, ending
+in complete impotence. Six weeks’ treatment resulted, the patient
+informed me, in the complete restoration of the normal function.
+
+Very marked absorbent or resolvent effects are also exerted by the
+Voltaic current, and are probably chiefly due to its powerful chemical
+action, for a current of great strength will dissolve or destroy any
+animal tissue whatever. One application of this chemical action is
+found in the electrolysis of tumours; another in the coagulation of
+blood in aneurisms;[18] and a third in the removal or absorption
+of gouty and rheumatic deposits. [SN: Rheumatic Gout.] In Rheumatic
+Gout, Dr. Poore has recorded a very successful result from the use of
+localized galvanization. The disease had existed for three months,
+but the severity of the pain had much diminished, excepting towards
+evening, when exacerbations occurred. The wrist was considerably
+swollen, and absolutely stiff, the hand pronated and could not be
+supinated, and the hand and fingers were immensely swollen, so as
+completely to obscure their anatomy, while the fingers were extended,
+stiff, pale, and cold, and the nutrition of the entire limb impaired.
+The whole limb, and especially the hand, was thoroughly sponged with
+the negative pole, the positive being held in the patient’s other hand.
+After the third application the swelling rapidly subsided, and in about
+a fortnight the hand, although still stiff, had resumed its natural
+aspect. The muscles were then faradized and shampooed.
+
+[SN: Rheumatic Arthritis.]
+
+Rheumatic arthritis with nodosities is best treated by passing as
+strong a Voltaic current as the patient will submit to through each
+swollen joint for a few minutes, the direction of the current being
+frequently changed by the movement of the commutator of the poles.
+
+[SN: Muscular Rheumatism.]
+
+The pains of muscular rheumatism are almost invariably removed or
+mitigated by cutaneous faradization, and so rapidly as in many cases
+to appear marvellous. In cases that had resisted all other treatment,
+an instantaneous cure has resulted, and sufferers whose pain has for
+a long time obliged them to keep the arm immovable have been able
+directly after the faradization to execute any movement with ease.
+With these rheumatic patients it is especially of importance that
+the current should be strictly limited to the skin, carefully dried
+and powdered, and should _produce no muscular contraction_, or the
+suffering will be aggravated instead of relieved. Begin with a current
+readily bearable on your own hand, and increase afterwards. The above
+remarks are applicable to all varieties of muscular rheumatism, but not
+to arthritic disease.
+
+[SN: General effects of Electrization.]
+
+So much for the general effects of electricity. All the structures of
+the body respond to its application; the muscles and motor nerves,
+as we have seen, by contraction; the nerves of common sensation by a
+burning or pricking; and of the nerves of special sense; the retina by
+a flash of light; the auditory nerve by a sound; the olfactory nerve
+by a peculiar smell; and the gustatory by a metallic taste, differing
+at the two poles. The action of the Voltaic current upon the brain is
+exceedingly powerful, and the greatest care must be exercised when
+it is applied to any part of the head or face. Not more than two or
+three cells should be commenced with. Its effect should be noted,
+and any increase should be made gradually. With a very moderate
+current giddiness is produced, and upon the sudden application of a
+sufficiently powerful one the patient falls down as if struck by a blow.
+
+[SN: General Debility.]
+
+All, or some of the more or less generalized applications, such as
+Beard and Rockwell’s generalized electrization, the common Faradaic
+and Voltaic Baths, or Radcliffe’s Charge, are of occasional benefit
+in conditions of general debility, and where general stimulation of
+the nervous centres is indicated. The electric bath is an elegant and
+pleasant mode of administering electricity, but it is less generally
+beneficial (except in certain gouty or rheumatic cases) than localized
+applications of electricity. The statement that metallic poisons can be
+eliminated from the body by its agency has not yet been established.
+
+[SN: Paralysis.]
+
+There are very few, I think I may almost say not one, of the many
+disorders classed under the heading of paralysis, in which at some time
+or other of their progress some form of electrization is not essential
+to their most successful treatment. Where powerless to cure it will
+not unfrequently relieve the most distressing symptoms. Cases of
+functional paralysis from slight pressure are not uncommon, when power
+may usually be restored by a few Faradizations; but in paralysis from
+severe central or peripheral lesion progress must of necessity be slow.
+Such cases, regarded electrically, may be most conveniently considered
+under the two divisions of atrophic and non-atrophic paralysis. [SN:
+Atrophic Paralysis.] In the great majority of atrophic cases there will
+be found abolition or modification of the normal electrical reaction of
+nerve and muscle, but whether this is so or not, in all cases of loss
+of power, in which any muscular wasting is visible, the localization
+of electricity in the wasting muscles is _imperative_, and in some
+varieties it is the only treatment which will arrest the disease. It
+is in these latter cases that its early administration is called for,
+before the degeneration and disappearance of the muscular tissue, and
+its early and judicious use will not seldom save the sufferer from
+being left for life with a powerless, or withered and deformed, limb.
+[SN: Infantile Paralysis.] As an illustration, let us review the
+progress of a case of essential infantile paralysis, the most common
+of the paralyses of children; that form in which premonitory symptoms
+are often absent, or but slight, and where there is no rigidity. Very
+shortly after its onset, usually within a few days, the limb is found
+to be colder than its fellow, and its muscles to be rapidly wasting;
+the final result, if untreated, being the entire disappearance of some
+of them and the production of deformity. In fact, the larger number
+of cases of club-foot and analogous distortions are brought about by
+neglected infantile paralysis, and there is no doubt that by judicious
+treatment, of which early electrization is the foundation, the majority
+of them might have been prevented. The leading orthopædic surgeons are
+fully alive to this fact, but they are powerless, as they are rarely
+consulted until all the mischief has resulted. [SN: Importance of early
+Electrical Treatment.] The early recognition and appropriate treatment
+of these cases must continue in the hands of the family practitioner,
+and he must decide whether or not they are to continue, as at present
+is unfortunately too commonly the case, without any serious attempts
+at restorative treatment until commencing deformity compels attention
+to them. As soon as the medical attendant is summoned--and this is
+frequently only because the parents have noticed that the child is
+lame--he should carefully examine the muscles electrically, and unless
+there are head symptoms present, and this is very seldom, he should
+electrize each muscle daily with that current to which it responds,
+and of a strength just sufficient to produce muscular contraction. If
+the powerless muscles have preserved their Farado-contractility it
+may be confidently predicted that they will rapidly recover; but it
+will almost invariably be found that while Farado-contractility is
+diminished or abolished, there is increased response to the interrupted
+Voltaic current. They should be treated then with this current alone.
+Hot spongings and shampooings should also be employed, and it is of
+great importance that in the intervals of treatment the temperature
+of the affected muscles should be maintained at as high a degree
+as possible. If the leg is affected, a stocking of pure spun silk
+should be constantly worn, day and night, in addition to the ordinary
+clothing; if the arm, a silken sleeve.
+
+[SN: Importance of active and passive movements in Paralysis.]
+
+When in any form of paralysis ANY amount of voluntary power has been
+restored by electricity, it is most important that the patient should
+be encouraged to use the limb and practise various movements. Passive
+movements are of equal importance, and the paralyzed muscles should be
+frequently exercised by this mode to the fullest extent of their normal
+movements. For example, if the extensors of the hand and fingers are
+paralyzed, the hand and fingers should be passively flexed and extended
+completely, at intervals of a few seconds, for some minutes, and so on
+with all the paralyzed muscles in succession. [SN: Rule for Muscular
+Electrization.] As soon as there is return of reaction to Faradization,
+Faradization should be alone used, and the rule in all cases of
+localized muscular electrization, muscular contraction being sought,
+is to use that current to which the muscles respond, and _I do not
+know of any exception to this rule_; but a successful result in severe
+cases of atrophic--not alone infantile paralysis, but all varieties of
+atrophic paralysis--is brought about by painstaking, daily, tedious,
+uninteresting treatment, with no chance of brilliant or rapid results,
+but which if thoroughly, faithfully, and patiently carried out, will
+reward us by progressive improvement, and sometimes--even in cases
+regarded not long ago as quite hopeless--complete recovery.
+
+[SN: Rigid form of Infantile Paralysis.]
+
+There are certain forms of paralysis affecting children where the
+muscles are rigid. Localization of any form of electricity in
+these rigid muscles is quite useless; but if these cases depend
+upon adhesions or exudations into the medulla their absorption may
+possibly be promoted by localizing a Voltaic current in the superior
+cervical ganglia of the sympathetic; two small conductors, leather,
+tipped and well-moistened in connection with the poles of a Voltaic
+battery being applied for four or five minutes to the bottom of the
+auriculo-maxillary fossæ on both sides. There seems no doubt that such
+an application causes a dilatation of the blood-vessels of the base of
+the brain, and is likely therefore to promote absorption.
+
+[SN: Traumatic Paralysis.]
+
+In all cases of traumatic lesion--as by section of a nerve--the
+paralysis is atrophic, and the treatment I have recommended in
+infantile paralysis should be assiduously employed. Mitchell, of
+Philadelphia, whose experience of military surgery is unrivalled,
+commences electrical treatment and shampooing within a fortnight of
+the wound, unless there are special circumstances to contra-indicate
+it. Lead palsy requires similar treatment; so does, perhaps, the
+commonest form of peripheral palsy--facial palsy from neuritis of
+the facial nerve. [SN: Caution necessary in Electrizing Facial
+Muscles.] In electrizing the facial muscles there is one caution
+necessary--especially to observe the rule of electrizing the muscles
+equally--for I have several times met with a contraction resulting
+from a too energetic Faradization of some individual facial muscle, to
+the neglect of the group with which it is in correlative action. Such
+a contraction may sometimes be removed by localizing in it for about
+five minutes a constant Voltaic current from eight or ten cells; but in
+the most favourable cases an unnatural expression of countenance will
+generally persist for a long time, from the non-recovery by the muscles
+of their perfect “tone,” that quality which imprints upon each face its
+characteristic features, and which has been called the “Gymnast of the
+Soul.”
+
+[SN: Wasting Palsy.]
+
+In that most distressing disease, Cruveilhier’s atrophy or wasting
+palsy, medication is altogether useless, and our one hope--not
+invariably a forlorn one--is in electricity. Localized Faradization to
+the muscles, alternately with Radcliffe’s Positive Charge, together
+with galvanization of the sympathetic or of the spinal cord, admit of
+trial.
+
+[SN: Hemiplegia.]
+
+In non-atrophic paralysis--of which hemiplegia may be taken as a
+type--the propriety of electrization, and especially the proper
+moment for its application, requires careful consideration. In both
+brain and spinal cord disease muscular electrization is not advisable
+until some time after the attack, or until the muscles exhibit
+signs of impairment of nutrition from disuse. As long as there is
+rigidity--especially with increased reflex action--any stimulant
+application of electricity is not likely to do good, and may do harm;
+but in older cases--both hemiplegic and paraplegic--cases of from six
+to eighteen months’ duration--the immediate benefit to be derived
+from localized electrization is often remarkable, especially in those
+cases where, after a partial return of voluntary movement, the patient
+suddenly stops short, and for weeks or months makes no progress. As
+the sequel of electrization, the hemiplegic patient able to use the
+arm slightly, but not to feed himself, may regain this power, to his
+infinite comfort, and the paraplegic patient, able with difficulty
+to drag himself along by crutches, is enabled to walk by the aid
+of a stick. Some improvement is usually soon obtained, and it is
+progressive for, perhaps, two or three months, after which continued
+electrization fails to increase it; but at a subsequent period--six
+months afterwards--a renewed electrization may give rise to a new
+improvement; but be this as it may, whenever in these old-standing
+cases we see signs of impaired nutrition, it is wise to occasionally
+stimulate the muscles by Faradism. We should endeavour--in the words
+of the late Nestor of modern medicine, Sir Thomas Watson--“to preserve
+the muscular part of the locomotive apparatus in a state of health
+and readiness, until peradventure that part of the brain from which
+volition proceeds having recovered its functions, or the road by which
+its messages travel having been repaired, the influence of the will
+shall again reach and reanimate the palsied limbs.”[19] [SN: Direct
+application of Voltaic Current to Brain.] In hemiplegia the propriety
+of a direct application of the constant Voltaic current to the brain
+must be thoughtfully considered. In selected cases, where the clot
+or softening is of limited extent, its removal may be accelerated by
+a carefully localized current--two or three cells--for two or three
+minutes to the injured hemisphere, followed by Voltaization of the
+cervical sympathetic (so-called) for four or five minutes. After such
+an application there follows--according to Althaus--“greater ease in
+the head, as well as in the limbs, and if there has been pain this
+is relieved.” [SN: Electricity in Spinal Paraplegia.] Similarly the
+absorption of the inflammatory products may be promoted in the earlier
+stages of spinal disease, by localizing the Voltaic current in the
+parts affected, especially where pain is present, and we have reason
+to suppose that the myelitis is circumscribed. The daily application
+of the positive pole for about five minutes, and with from ten to
+fifteen cells, to the painful spot--the negative pole being held to
+an indifferent part of the body--is likely to promote absorption. At
+any rate it will sometimes relieve the pain. In the later stages of
+paraplegia, as soon as there is diminution of electro-irritability in
+the paralyzed muscles they should be sponged with the Voltaic current,
+or Faradized; and where anæsthesia is present, a good painting with the
+wire brush will often be of service. [SN: Paraplegic Constipation.]
+Paraplegic constipation may frequently be relieved by Faradization
+of the abdominal muscles, and the troublesome dribbling of urine, so
+often present, by external Faradization of the bladder--one pole to
+the pubes, and two sponges from the second pole--one to the sacrum
+and the other to the perineum. Incontinence of urine in children may
+be similarly treated. [SN: Emotional Paralysis.] Cases of hysterical
+or emotional paralysis may frequently be benefited by the application
+of the wire brush, which also sometimes acts like a charm in removing
+anæsthesia, which, although originally of central origin, continues
+after the removal of its cause. Anæsthesia from section of a nerve is
+sometimes persistent in this way after repair of the nerve lesion. [SN:
+Locomotor Ataxy.] The wire brush is also useful in sometimes removing
+the anæsthesia present in locomotor ataxy, some cases of which may be
+largely benefited also by the constant current to the spine--one pole
+to nape of neck, and the other to the lower lumbar vertebræ.[20]
+
+[SN: Electricity in Mental Diseases.]
+
+Electricity is coming into use in mental diseases. Faradism, and
+especially cutaneous irritation with the wire brush, would seem to
+be most suitable for cases accompanied by depression or torpor, the
+stimulating effects being of service in inspiriting the patient,
+while the soothing influence of a direct application of the
+_constant_ Voltaic current to the brain may be employed in cases of
+over-excitement requiring a sedative.
+
+[SN: Diseases of Women.]
+
+It is remarkable that electricity should have been so little used
+in this country in the diseases of women. [SN: Electricity as
+an Emmenagogue.] According to Golding Bird, it is the only true
+emmenagogue that we possess. Be this as it may, all of its forms
+are serviceable in stimulating the secretions, and may be employed
+with success in cases of suppression of the catamenia from a torpid
+condition of the uterine organs. A generalized application will often
+suffice. Let the patient sit with her feet in tepid salt and water,
+in which is immersed a wire from one of the poles of an induction
+instrument in action, while a large sponge from the other pole is held
+applied to the lumbar region. Strength of current as much as she will
+bear. Time, ten to fifteen minutes. The application should be made
+twice daily for the three or four days preceding the usual catamenial
+period. If this method fails in its object, direct electrization must
+be resorted to; but Franklinization most often succeeds.
+
+On the Continent electricity has been largely employed in the treatment
+of inertia uteri in the second stage of labour, also in producing
+premature labour; in the resuscitation of still-born children, and
+in uterine displacements. [SN: The Advantages of Electrization over
+Ergot.] We possess other remedies for these conditions, but in labour
+its advantages over the administration of ergot, include the rapidity
+and certainty of its action, the exactness with which its dose can be
+regulated, and the strength and regularity of the contractions which
+it produces. It admits also of being used in extreme cases in which the
+power of swallowing has been lost, or where everything is rejected from
+the stomach, while it never exerts in any way--as ergot is said to do
+occasionally--any injurious effect upon the new-born child.
+
+[SN: Faradization in Post-partum Hæmorrhage.]
+
+Gentlemen, it is my firm belief that if a Faradaic instrument were
+at hand, and properly used, there would never be another death from
+_post-partum_ hæmorrhage. The Faradaic current, thoroughly localized
+in the uterus, will always produce its contraction, not only while
+life persists, but even for a limited time after death, but failure in
+localizing electricity in an organ, withdrawn from sight and covered
+with thick muscular tissue, is especially liable to occur, unless the
+details of application are conducted with extreme care. Assume the case
+to be an example of severe _post-partum_ hæmorrhage, that the ordinary
+resources of medicine have failed the obstetrician, and that he fears
+every moment may be his patient’s last, but he has an induction
+instrument at hand. Let him waste no time, but at once introduce his
+right hand into the cavity of the uterus and grasp in his left the
+moistened sponge attached to one of the conductors of the instrument
+in action. Let an attendant, holding by its insulating handle the
+conductor from the other pole (which should be a well-moistened sponge)
+thoroughly paint with it, as it were, the abdominal parietes, pressing
+it with considerable force against the practitioner’s hand, and
+afterwards apply it to the lumbar region. _Contraction of the uterus
+will invariably result if the current used be of sufficient power._
+
+[SN: Uterine Neuralgia.]
+
+In my own hands an intractable case of uterine neuralgia was perfectly
+cured by the Voltaic current; and I have knowledge of a case of
+sterility which the localization of the Voltaic and Faradaic currents
+alternately would seem to have removed. [SN: Sterility.] One conductor
+was applied to the os, and two sponges from the second pole--one to
+the position of each ovary. The applications were made thrice a week
+for a fortnight before each menstrual period, and for a period of four
+months. Conception followed, and the patient, who had been married for
+thirteen years, in due course gave birth to her first child.
+
+[SN: Paralysis of Nerves of Special Sense.]
+
+The stimulant effects of electricity are occasionally beneficial
+in the treatment of paralysis of the nerves of special sense,
+especially of the optic and auditory nerves, while its use has been
+advocated in a multitude of diseases to which I shall not further
+refer, than by saying that a clear comprehension of the principles of
+electro-therapeutics will prevent the occurrence of difficulty in any
+special application of them; and let us shortly recapitulate the most
+important of these principles. [SN: Résumé of general principles of
+Electro-therapeutics.] We have seen that electricity is a stimulant, a
+sedative, a restorative, and an absorbent. Its stimulant properties are
+chiefly of use in diseases of debility, and notably in paralysis--its
+sedative properties in the alleviation and removal of pain and spasm,
+and notably in neuralgia--its restorative properties in fatigue
+diseases, notably writer’s cramp--and its absorbent properties in
+exudation diseases, and notably in gout and rheumatism. The dose of
+electricity consists of the addition of two factors--firstly, the
+strength of the current, whether Voltaic or Faradaic; secondly, its
+duration. It is of essential importance that we do not overdose our
+patient, but we are little likely to do this if we adhere to the two
+cardinal rules--to use the _minimum_ power which will produce the
+results we desire, and not to unduly prolong our application: and
+really this question of “dosage” forces us to consider how far it is
+advisable for the medical practitioner who prescribes electricity to
+sanction its administration by the patients themselves. While there is
+no doubt that the most explicit directions will often be misunderstood,
+or fail in being correctly carried out, yet it would be practically
+impossible (to say nothing of the expense to the patient) for any
+medical man to himself apply electricity daily for a lengthened period;
+and we are compelled, in certain cases, to do our best in instructing
+_some one attendant of the patient_ how to carry out the treatment,
+making her do this a few times in our presence, _and looking sharply
+after her afterwards_, and in addition explaining everything as fully
+as possible to the patient, or the patient’s friends. Moreover, we
+must not lose sight of the fact that, with electricity as with other
+remedies, the skill of the physician is shown in determining how, when,
+and in what dose to administer it, and his judgment in selecting those
+cases in which its administration may be wisely committed to others.
+
+In conclusion, Gentlemen, allow me to thank you for the attention with
+which you have listened to these imperfect Lectures. I fear that I
+have failed in doing full justice to their subject; but I trust that
+I have succeeded in indicating the importance of electricity, as a
+supplement to, not as a substitute for, the more ordinary resources of
+therapeutics: in removing any doubt as to the class of cases calling
+for its employment; in supplying any want of information regarding
+details of its application; and especially in proving its claim to be
+more fully employed in your daily practice. A theoretical belief in its
+efficacy is widespread in our profession, its _frequent use_ is yet
+in the future, but I hope a not distant future. Gentlemen, with you
+rests the decision whether this shall or shall not be. You will decide
+it not by the dictum of any specialist, but by the general voice of
+the profession, declaring your verdict as founded alone on your own
+personal experience.
+
+FOOTNOTES:
+
+[14] Since writing as above, in 1873, our knowledge of the beneficial
+effects of Franklinism has been very largely added to and the improved
+apparatus, described at page 10, has enabled the treatment to be
+conducted with a degree of precision and success impossible with
+the comparatively imperfect instruments in use at that date. [SN:
+_Importance of distinguishing between the Positive and Negative Charge
+of Franklinism._] Dr. Radcliffe has contended for many years that
+the effect of a charge of _positive_ electricity differs altogether
+therapeutically from that of a negative charge; and Giacomini (quoted
+by Duchenne[15]) attributes a hyposthenic influence to the _negative_
+charge. He contends that this charge is derived from the nerves of the
+patient instead of from the ground as is the positive charge, and it is
+ranked by the Italian School among their most valuable hyposthenisants.
+According to Giacomini the “patient is _de-electrized, is consequently
+deprived of a greater or less quantity of a stimulant analogous to heat
+and undergoes a real hyposthenisant effect_. Erysipelatous tissues
+may be seen to become blanched under its influence, and chronic
+inflammations undergo an unquestionable improvement. Headaches and
+neuralgic pains have been instantly relieved by this kind of electric
+flux as by the application of ice, which abstracts heat, and perhaps at
+the same time electricity also.”
+
+In reference to the above it has been proved by various physicists that
+the natural electrical nerve current is strengthened by the positive
+charge, and weakened by the negative--and hence it would seem to be
+established that Dr. Radcliffe’s contention is the right one; and that
+these two charges are literally “wide as their poles asunder” not
+only physically, but _therapeutically_, and this divergence is more
+important when we recall to mind that when a patient is insulated, not
+only does the electricity accumulate upon the surface of the skin but
+that the whole body is saturated with it as a sponge may be with water.
+
+[SN: _Franklinization in Conditions of Debility._]
+
+In my own experience the positive charge has been of great good as
+a most potent restorer when the organism from any cause has become
+enfeebled. In the general weakness of old age it would seem to have
+been beneficial upon several occasions in resuscitating vital action
+and in imparting new force and energy. I have also used it with the
+best results in conditions of debility following acute diseases, as for
+example in convalescence from fevers; in cases of general prostration
+from overwork or anxiety--and in some cases of phthisis and other
+wasting diseases. In certain varieties of mental disease--notably
+melancholia--it is often of service, and in cerebral anæmia, in asthma,
+in inveterate insomnia, and in all functional uterine irregularities it
+should be employed _before, not after_, all other therapeutic agencies
+have been exhausted.
+
+[15] See “Duchenne on Localized Electrization,” English Edition, page
+4. Churchill.
+
+[16] In the treatment of _Neuralgia_ by the constant current the
+electrodes should be so applied as to include between them the part
+or nerve affected--the number of cells the highest number that can
+be borne without pain, _i.e._, the current to be distinctly but not
+painfully felt, both electrodes being immovable. [SN: Electricity in
+Neuralgia.] Time, five to ten minutes. Frequency, as often as the
+attacks of pain recur. I am satisfied that in severe cases this rule
+of application is essential--that the influence of the current shall
+be maintained as much as may be in the irritable nerve during the
+intervals of pain. In one case under my care the patient was galvanized
+with benefit 27 times in the 24 hours; but in milder cases one or two
+applications daily will generally suffice. A weak current from two or
+three cells--the electrodes being applied to each temple for one or
+two minutes--will sometimes dissipate a severe headache. This soothing
+influence of the current is often useful in allaying SPASM, as, for
+example, in spasmodic torticollis. The current should be localized in
+the irritable muscles: and it is generally advisable to energetically
+Faradize their antagonists and to conjoin with the electrical treatment
+appropriate gymnastic exercises, alternating with periods of perfect
+rest. I may mention that the only recorded case of improvement in that
+remarkable condition of spasm first described by Hammond under the name
+of _Athetosis_ resulted from the Voltaic current. The case was brought
+before the Medico-Chirurgical Society by Dr. Gowers, and is published
+in the 49th volume of their Transactions. The reader will find the
+subject of neuralgia very exhaustively considered in Dr. Anstie’s
+work.[17] He quotes some extremely severe cases in which the effect of
+Electrization was to arrest the pain in a few sittings, and to procure
+a remission for several days or even weeks; and I have had several
+cases which I believe to have been as fairly cured as an ague fit may
+be said to be cured by quinine. Dr. Russell Reynolds also quotes the
+case of a patient, a lady, who for twenty years had suffered from an
+extremely severe neuralgia of the ophthalmic branch of the fifth nerve,
+which recurred daily and from which her health had greatly suffered. It
+was not only relieved but removed by a single application.
+
+[17] “Neuralgia and the Diseases that resemble it.” By Francis E.
+Anstie, M.D., &c. London: Macmillan and Co. 1871.
+
+[18] Electrolysis is, of course, chiefly applicable to tumours which,
+from their nature or situation, are difficult or impossible to be
+removed by the knife; and, perhaps, also to malignant tumours; for
+whether or not the Voltaic current exerts a special destructive
+influence upon diseased germs, it seems certainly proved that there is
+a less frequent return of cancerous growths removed by its agency than
+by ordinary operative procedures or by caustics.
+
+[SN: Electrolysis of Tumours.]
+
+This treatment of malignant tumours by electrolysis is yet _sub
+judice_, but the evidence in its favour has recently much accumulated,
+and its full and exhaustive trial by competent observers possessing the
+opportunities of large hospital practice ought not to be much longer
+delayed. [SN: Electrolysis of Malignant Tumours.] Neftel, of New York,
+who is its chief advocate, contends that malignant tumours are at first
+entirely local, and he explains their recurrence, after removal by the
+knife, from the fact of the impossibility of the whole of the diseased
+mass being excised, as apparently healthy parts when microscopically
+examined show that they have already become infected. Electrolysis
+he considers acts not only on the tumour but also on the surrounding
+tissues, the current being diffused to some distance in all directions.
+After electrolysis he applies a mild and not painful current for from
+a quarter to half an hour daily to the _locus morbi_, and continues
+this for some months. In one of his cases a mammary tumour existed of
+the size of a small orange. Three needles, from the negative pole of
+thirty-five cells, were inserted for half an hour under chloroform,
+and the operation was repeated thrice at intervals of a week, daily
+external galvanization being also used. The tumour gradually became
+smaller, and at last disappeared, but external treatment was continued
+for several months. At the end of a year there had been no relapse. In
+another case, in which the tumour had been excised by Marion Sims, it
+reappeared, and was again removed by the same surgeon, and pronounced
+cancerous. It again reappeared and was then electrolyzed, upon three
+occasions, by two, three, and four needles respectively, and with a
+current gradually increased from ten to thirty cells. The tumour by
+degrees grew less, and in three months was entirely dispersed; while,
+when the patient died from another disease three years afterwards,
+there had been no recurrence.
+
+[SN: Aneurismal Electro-puncture.]
+
+Electrolysis has been successfully employed in several cases of
+aneurism. Where pressure and ligature admit of application, it is
+hardly necessary to say that the preference should be given to them;
+but many internal aneurisms, and especially aortic aneurisms, cannot
+be thus treated, and in such cases the question of electro-puncture
+should be carefully considered, and, when called for, it should not be
+too long delayed. Two fine, sharp, and carefully insulated needles, one
+connected with each pole, should be introduced into the aneurismal sac,
+and the current allowed to pass for from half an hour to an hour, the
+needles carefully withdrawn, and their punctures covered with a bit of
+lint soaked in collodion or styptic colloid. Authorities are divided
+as to the kinds of aneurism calculated for electro-puncture, but there
+is no doubt than an aneurism pressing on the parietes, but not having
+actually perforated them, is the best adapted for this treatment, and
+that it is contra-indicated where the sac is of large size, or where
+large trunks issue from it.
+
+[19] The following is an illustrative case:--
+
+A lady, forty-one years of age, had suffered from right hemiplegia for
+eighteen months, and described her condition as having remained without
+improvement for the past six months. She had recovered sufficiently to
+walk with the aid of a stick, but the movements of the arm were very
+weak, especially those of the deltoid, extensors of the fingers, and
+individual muscles of the hand. Faradic contractility was somewhat
+lowered, but there was no rigidity. The muscles were carefully
+Faradized with a current just sufficiently strong to produce their
+contraction. The entire application occupied about fifteen minutes,
+and was made once daily. After a fortnight’s electrization she was
+able to raise the arm to a right angle with the body, and _to use the
+hand to feed herself_, neither of which had she been able to do before
+treatment.
+
+[20] The following is an extract from Dr. Sturge’s Report of the
+results of treatment at the National Hospital for the Paralyzed and
+Epileptic:--
+
+“In the division of Muscular Atrophies some striking cases have
+occurred, and in all of these the improvement is mainly due to the
+electrical treatment prescribed.
+
+“A patient, with atrophy of some of the muscles of both arms of six
+months’ standing, which incapacitated her from dressing herself or
+cutting her food, or doing much household work, was discharged at the
+end of three and a half months, able to feed and dress herself, sew,
+and perform almost any domestic duty.
+
+“Another woman, with atrophy of the muscles of the forearm of several
+years’ standing, and who was similarly incapacitated from almost
+all use of the hands, went out, after a month’s treatment, able to
+dress and feed herself, and to perform many actions that were before
+impossible for her.
+
+“A man came to the hospital with atrophy of many muscles in various
+parts of the body, more especially in the left arm, which he was unable
+to move from the side. He went out able to lift his arm well over his
+head, and with much increased strength in the limb.
+
+“Another man, in a very similar condition, was also greatly benefited;
+and whereas on admission he could barely bend the right arm at the
+elbow, after three months’ treatment he was able to use a hammer with
+the arm.”
+
+
+
+
+INDEX.
+
+
+  Bath, Electric, 42
+
+  Battery, Accessories of, 35
+    Faradaic, 29
+    Hospital Combined, 33
+    Portable, 18
+    Voltaic, 20
+    Voltaic, Essentials of, 27
+
+
+  Cautions in Electrizing Facial Muscles, 85
+
+  Cells, Voltaic, 18
+
+  Conducting Cords, 35
+
+  “Constant Current,” importance of exactitude in administering, 52
+
+  Cords, Conducting, 35
+
+  Current, Constant, Radcliffe’s Variety of, 41
+
+
+  Degenerative Nerve Reaction, 66
+
+  Diagnosis between Real and Feigned Disease, 67
+    of Central Paralysis, 66
+    Electro, 62
+    of Peripheral from Central Disease, 65
+    of Hysterical Paralysis, 67
+    of Spinal Paralysis, 66
+
+  Dischargers, Improved, 16
+
+
+  Electricity as Proof Positive of Death, 67
+
+  Electricity in Diagnosis, 62
+    Varieties of, 5
+    Methods of applying, 37
+    the Galvanometer as an aid to the Dosage of, 22
+
+  Electrization, 71
+    as a Constant Current, 72
+    as a Stimulant, 72
+    Central, 44
+    Cutaneous, 53
+    Direct, 49
+    in Diseases of Women, 90
+    Effects of upon Nutrition, 72
+    in Fatigue Diseases, 74
+    in General Debility, 80
+    General effects of, 79
+    in Hemiplegia, 85
+    Indirect, 50
+    in Locomotor Ataxy, 88
+    Muscular Rule for, 83
+    in Mental Diseases, 89
+    in Neuralgia, 73
+    in Paralysis, Atrophic, 81
+    in Paralysis, 80
+    in Paraplegic Constipation, 88
+    in Paralysis, Emotional, 88
+    in Paralysis, Infantile, 81
+    in Paraplegia, 88
+    in Paralysis of Nerves of Special Sense, 92
+    in Post-partum Hæmorrhage, 91
+    in Paralysis, Traumatic, 84
+    Localized, 44
+    in Wasting Palsy, 85
+    of Auditory Nerve, 57
+    of Bladder, 55
+    of Brain, 56
+    of Central Organs, 57
+    of Internal Organs, 54
+    of Larynx, 55
+    of Male Genital Organs, 55
+    of Ocular Muscles, 57
+    possesses an influence _sui generis_, 74
+    precautions in, 59
+    of Rectum, 54
+    Restorative Power of, 74
+    of Retina, 57
+    of Spinal Cord, 57
+    of Sympathetic, 56
+    of Uterus, 55
+
+  Electrical Static Machine, 7, 10
+    Static Machine with Fly-wheel, 12
+    Winter’s Machine, 8
+
+  Electrolysis of Tumours, 76
+    in Aneurisms, 77
+    Needles for, 58
+
+  Electrotonus, 75
+
+  Engine, Gas, Bischoff’s, 9
+
+
+  Faradism, 28
+
+  Faradization, General, 43
+
+  Franklinism, 6
+
+  Franklinization, 68
+    by Sparks, 16
+    Distinction between Positive and Negative Charge of, 70
+    in Conditions of Debility, 71
+    in Emotional Aphonia, 69
+    in Facial Neuralgia, 68
+    in Facial Spasm, 68
+    in Sciatica, 68
+    in Localized Excessive Sensitiveness, 70
+    in Tremor, 70
+    Modes of Generating, 7, 15
+
+
+  Galvanism, _see_ Voltaism
+
+  Galvanization, Central, 44
+
+  Galvanometer as an aid to the Dosage of Electricity, 22
+
+
+  Irritability, Electro, 62
+    Farado, 63
+    Voltao, 63
+    Electro, Diminished, 64
+    Electro, Increased, 65
+    Voltao, Increased, 65
+
+
+  Paralysis, Importance of Early Electrical Treatment in, 82
+    Rigid Forms of, 84
+
+
+  Rheophores, Different Kinds of, 47
+
+
+  Voltaic Cells, 18
+    Current, Resolvent Effects of, 76
+
+  Voltaism, 17
+    and Faradism, Points of Distinction between, 18
+
+  PRINTED BY BALLANTYNE, HANSON AND CO.
+  LONDON AND EDINBURGH
+
+       *       *       *       *       *
+
+BY THE SAME AUTHOR.
+
+_PREPARING FOR PUBLICATION._
+
+A MANUAL OF DISEASES OF THE NERVOUS SYSTEM.
+
+Within the past few years the treatment of Diseases of the Nervous
+System has grown up into a recognised speciality in the Medical
+Profession. Recent investigations, physiological, clinical, and
+pathological, have cast a flood of light upon its study, and it
+possesses--as a separate field of practice--Special Hospitals, and a
+voluminous and rapidly extending literature.
+
+Under these circumstances the Author, although fully conscious of the
+extreme difficulty of presenting, within a small compass, an adequate
+view of our present knowledge, feels that a concise introduction
+to neuro-pathology may not be unacceptable to students and junior
+practitioners. It will be his endeavour to give the results of the best
+work by the many distinguished physicians, both English and Foreign,
+who have so completely made this department of medicine their own; to
+impart as much practical information as possible; to give an analysis
+of the principles which ought to govern our treatment of diseases of
+the Nervous System; and to direct especial attention to the importance
+of early diagnosis. He hopes to omit nothing really essential, and
+to make the work a safe and trustworthy guide to the practice of the
+speciality upon which it will treat.
+
+LONDON: J. & A. CHURCHILL.
+
+       *       *       *       *       *
+
+PRICE 5s., 35 INCHES BY 21 INCHES.
+
+_With 20 Illustrations, &c._
+
+[Illustration: A MAP OF Ziemssen’s Motor Points of the Human Body
+
+(A GUIDE TO LOCALIZED ELECTRIZATION).
+
+BY HERBERT TIBBITS, M.D., &c.]
+
+       *       *       *       *       *
+
+TRANSLATED AND EDITED BY DR. TIBBITS.
+
+_Part I. 8vo, pp. 322, price 7s. 6d., with 92 Illustrations, and Notes
+and Additions by the Translator_,
+
+A TREATISE ON LOCALIZED ELECTRIZATION,
+
+AND ITS APPLICATIONS TO PATHOLOGY AND THERAPEUTICS.
+
+By Dr. G. B. DUCHENNE (DE BOULOGNE).
+
+CONTENTS.
+
+CHAP. I.--Medical Electricity. The Physiological and Therapeutic
+Properties of Static, Galvanic, and Induced Electricity.
+
+CHAP. II.--Localized Electrization. The Principles and Methods
+of Procedure in the Local Application of Electricity; (_a_) of
+Galvanic Electricity (Galvanization); (_b_) of Induced Electricity
+(Faradization).
+
+CHAP. III.--Historical and Critical Observations upon the Principal
+Methods of Electrization: (_a_) Electro-puncture; (_b_) Electrization
+by Reflex Action; (_c_) Therapeutic Value of Localized Faradization;
+and (_d_) of Galvanization.
+
+CHAP. IV.--Electro-Medical Instruments, with regard to their
+Application in Pathology, Physiology, and Therapeutics.
+
+The First Part of Duchenne’s work is devoted to METHODOLOGY, AND IS
+COMPLETE IN ITSELF.
+
+The admirable selection by Dr. Poore from Duchenne’s Clinical Works
+(published by the New Sydenham Society) renders unnecessary any further
+publication _in extenso_ of Duchenne’s most voluminous treatise.
+
+“Duchenne’s great work has for years held its place as the most
+complete on the subject of which it treats, and Dr. Tibbits, by
+presenting us with an English version of the forthcoming Third Edition,
+has earned the gratitude of the profession in this country.
+
+“... The reader will find himself so thoroughly instructed in the
+principles underlying the medical employment of electricity, as well
+as in all the methods of applying it, that the work can hardly fail
+largely to increase the use of this powerful and often valuable
+agent.... The translation itself is very creditable, and reads with
+almost as much smoothness as original English composition, while the
+experience of the translator in the Electrical Room of the National
+Hospital gives great value to his notes and additions. We are happy to
+congratulate him upon having so far accomplished an undertaking of much
+utility.”--_The Lancet._
+
+“We have to congratulate Dr. Tibbits upon his successful labours
+thus far. This instalment promises that the results of the best
+subsequent work will be incorporated into Duchenne’s own treatise with
+so much judgment and adequacy as to make this Edition an independent
+standard.... The tentative and accurate spirit of the master has
+found its kin in the spirit of his follower, and we see little in the
+work of either open to cavil or correction.”--_British and Foreign
+Medico-Chirurgical Review._
+
+       *       *       *       *       *
+
+_Second Edition, Revised and Enlarged, with 95 Illustrations, 9s._
+
+A HANDBOOK OF MEDICAL & SURGICAL ELECTRICITY
+
+BY HERBERT TIBBITS, M.D., ETC.
+
+CONTENTS.
+
+  CHAP.
+    I.--Electricity and Electro-Medical Instruments.
+   II.--The Application of Electricity.
+  III.--Electricity as an aid to Diagnosis.
+   IV.--Electricity in Medicine.
+    V.--Electricity in Surgery.
+   VI.--Electricity in Midwifery and the Diseases of Women.
+
+_Opinions of the Medical Press._
+
+“This work fills up a hiatus in the literature of medical electricity.
+It purposes to teach (to use the words of the preface) ‘the busy
+practitioner not only when to use electricity, but in explicit and full
+detail how;’ and in ‘moderate bulk to contain only what it is essential
+to master.’ Dr. Tibbits’ object has been to give the results of the
+best work, and to this end he has availed himself freely of the large
+experience of the Electrical Room of the National Hospital for the
+Paralysed and Epileptic.
+
+“The work is what it professes to be, and is a handbook in the best
+sense of the work. The book, indeed, answers thoroughly to the author’s
+description: that he has ‘throughout endeavoured to keep constantly in
+view the practitioner rather than the theorist,’ especially in points
+of detail which are of importance in order to secure the successful
+application of electricity, and to insure (a not insignificant matter
+in this respect) the comfort of the patient.”--_The Lancet._
+
+“There is not a word of exaggeration, or of fanciful hypothesis in the
+book, and, above all, there is not the least suggestion that there
+is after all a mystery behind, and that the reader would do well to
+come to an expert for advice. On the contrary, everything is made so
+clear that any practitioner, whether he previously knew anything of
+electricity or not, may from this book at once begin the practical
+use of it, and if there are any lingering doubts in the minds of some
+ultra-conservative persons as to the practical value of electrical
+treatment, this book should dispel them.... the busiest practitioner
+can, without difficulty, learn how to effect a large amount of
+good which he was previously quite unable even to attempt.”--_The
+Practitioner._
+
+“As Medical Superintendent of the National Hospital for the Paralysed
+and Epileptic, as well as through private practice. Dr. Tibbits has
+had ample opportunities of studying the application of electricity to
+medicine, and in the volume under notice, which aims principally at
+giving full and explicit details within convenient limits, _how to
+use electricity_, we are bound to say this object is fairly carried
+out.”--_The Dublin Journal of Medical Science._
+
+“The exact value of electricity as a therapeutic agent is imperfectly
+understood. That it is of great value in some cases as a means of
+improving nutrition, relieving pain, and exercising disused muscles,
+is undoubted, but still its exact value in all cases remains to be
+settled, and in Dr. Tibbits’ book we find a guide which will, at all
+events, help us to a solution of some of our difficulties.--_The
+Medical Times and Gazette._
+
+“Dr. Tibbits, who is known as an authority upon electricity, has
+written a concise book upon this subject for the general practitioner,
+embracing only the valuable part of the existing knowledge. The work is
+written in a condensed style, and is well adapted for the practitioner
+who does not make a specialty of electrical treatment.”--_The New York
+Medical Journal._
+
+LONDON: J. & A. CHURCHILL.
+
+       *       *       *       *       *
+
+_DIRECTIONS FOR USING THE_ HAMMOND Wall Cabinet
+
+MANUFACTURED BY _THE WAITE & BARTLETT MAN’F’G CO._, 143 East 23d
+Street, New York.
+
+TO USE THE GALVANIC CURRENT.
+
+To use the galvanic current place the ends of the conducting cords
+in the two binding posts marked =13-13=. Place the socket of current
+selector (=20=) on the pin marked O, and turn the lever of selector
+on pin No. =1=, or on any number, according to the number of cells
+desired; at the same time see that all the switch levers are on their
+blank buttons, except the one at left of current selector, which should
+be on its left-hand button marked Constant.
+
+If it is desired to use cells from any other part of the series, place
+the socket on the pin from which it is desired to begin, and having
+previously moved the lever ahead of this pin move it along until the
+desired number of cells intervenes between socket and lever. The number
+of cells in circuit when the socket is not on O, but on a pin with a
+number, is the difference between the number of the pin and number on
+which the lever rests, for instance, if socket is on pin =12= and lever
+on pin =22=, then =10= cells are being used, the starting point being
+=12= cells from any part of the series may thus be brought into the
+circuit. If socket be placed on pin =39= and lever on pin =40= then the
+=40=th cell would be in use only.
+
+_Always keep the socket on the lowest number and the lever on the
+highest, as putting socket ahead of lever would reverse the current._
+
+Should, through any accident, a cell become disconnected or run down,
+or should it get out of order from any cause, it is only necessary to
+short-circuit the cells and throw the milli-ampere-meter in circuit
+by adjusting the switch =10=. By placing the socket on the pin marked
+O and selecting cell after cell with the lever, the defective cell is
+easily found by the milli-ampere-meter failing to deflect when the pin
+corresponding to the defect is reached.
+
+TO OBTAIN THE INTERRUPTED GALVANIC CURRENT.
+
+To obtain the interrupted galvanic current, move the switch at left
+of selector on to button marked interrupted, then turn the switch
+just above the vibrator on to its button marked =11=, by adjusting
+the screws at =14= and =15= the proper degree of vibration will be
+obtained. It is necessary that the point of the screws at =15= should
+touch the plate with every vibration as the current passes through at
+this point and unless it touches, connections would not be made.
+
+TO MEASURE THE RESISTANCE OF THE PATIENT.
+
+To measure the resistance of the patient turn the lever at the left
+of selector on to the button =8= marked milli-ampere-meter and wire
+rheostat. Supposing him to have the electrodes in his hands and a
+current from =30= cells registers =8= milli-amperes; without changing
+any other conditions, throw the upper left-hand lever =10= on button
+marked rheostat and milli-ampere-meter only. The patient will now be
+thrown out and the needle will fly around as far as it can go.
+
+Begin by throwing in resistance, which is done by manipulating the top
+row of levers, until the needle which will have retraced its course
+rests directly over the division marked =8= milli-amperes or whatever
+may have been the previously recorded amount. The numbers on uncovered
+buttons added together will be the resistance of the patient. The known
+resistance having taken the place of the patient.
+
+_The upper left-hand lever should at all times except for purposes of
+measuring the resistance of a patient, be kept on its blank button, or
+the battery will be short circuited and injured._
+
+THE POLE CHANGER.
+
+The pole changing lever above the two posts marked =13-13=, when
+pressed between the two right-hand springs makes the right-hand binding
+post positive, and when pressed between the two left-hand springs the
+left-hand post becomes positive and the right negative.
+
+GRAPHITE RHEOSTAT.
+
+When the left-hand lever is placed on button =9= it throws the graphite
+rheostat (=16=) into circuit. To use the rheostat first draw up the
+rod (=17=). By slowly pressing the rod down through the graphite it
+gradually lessens the resistance thereby increasing the current without
+shock to the patient. With this rheostat you can place any number of
+cells in the circuit.
+
+THE DE WATTEVILLE SWITCH.
+
+The de Watteville switch is placed directly above the pole changer
+is used for obtaining either the galvanic or the faradic current
+separately or the two combined. When the double lever rests on figure
+=1= and =3= the galvanic alone can be used; can when on =3= and =5= the
+faradic can be alone used and when on =2= and =4= the two currents are
+combined and used without changing the conducting cords.
+
+THE FARADIC APPARATUS.
+
+The Faradic apparatus of this cabinet combines a fast and slow
+interrupter also a single contact key. The style of coil used is the
+Du Bois-Raymond. To use =Primary= coil, place the two tips on ends of
+conducting cords into the two binding posts in front of the coil, the
+others being connected with any desired electrodes. The strength is
+increased by drawing the coil to the =Right=, first placing switch at
+right end of coil on button marked P.
+
+To use the secondary coil remove the tips of cords from primary posts;
+then place the ends of cords in the two binding posts =13-13= and place
+switch on right end of coil on button marked =S=. To increase the
+strength of secondary, push coil to the =Left= gradually, which is just
+=Opposite= to what is done in case of primary current.
+
+THE USE OF THE INTERRUPTER.
+
+To use the rapid interrupter which works against the end of core it
+is only necessary to adjust the screw F, and any degree of vibration
+may be obtained. The same may be said of the slow interrupter which is
+adjusted by the screw D, but it is further controlled by the sliding
+weight at E. By sliding the weight up and down the interruptions are
+varied from very slow to rapid.
+
+The higher the weight the slower the interruptions and vice-versa. At
+button G, is the “single contact” used in obtaining single impulse
+contractions.
+
+The different interrupters may be placed in circuit by a switch on
+the base of the Cabinet which works over a series of buttons marked
+S, F and C which put in operation the slow, fast or single contact
+interrupters, as desired.
+
+DIRECTIONS FOR CONNECTING CELLS.
+
+Fill the cells according to the directions on the cell label, and
+connect the wires of the cable to the cells, as shown in the cut; No.
+O being attached to zinc of the first cell, No. =1= to the carbon of
+the first cell, while at the same time the carbon of the first cell
+connected to the zinc of the second cell by strip from the carbon of
+cell, No. =2= wire of the cable to the carbon of the second cell, and
+so on, the last wire being connected to the carbon of the last cell, as
+shown by No. =40=. The two wires marked faradic should be connected as
+shown, the four cells being placed in two rows of two each, the zincs
+and carbons being connected together as shown in diagram.
+
+       *       *       *       *       *
+
+Transcriber’s Notes:
+
+Footnotes have been moved to the end of each chapter and relabeled
+consecutively through the document.
+
+Illustrations have been moved to paragraph breaks near where they are
+mentioned.
+
+References in the text to illustrations have been standardized.
+
+Sidenotes originally appearing near the start of a paragraph are
+positioned at the beginning of the paragraph; sidenotes in the middle
+of long paragraphs are positioned near the relevant sentences.
+
+Punctuation has been made consistent.
+
+Variations in spelling and hyphenation were retained as they appear in
+the original publication, except that obvious typographical errors have
+been corrected.
+
+
+
+
+
+End of the Project Gutenberg EBook of How to Use a Galvanic Battery in
+Medicine and Surgery, by Herbert Tibbits
+
+*** END OF THIS PROJECT GUTENBERG EBOOK GALVANIC BATTERY ***
+
+***** This file should be named 59543-0.txt or 59543-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/9/5/4/59543/
+
+Produced by deaurider, Craig Kirkwood, and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive.)
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
