@@ -1,5 +1,8 @@
 _repo: How-to-Use-a-Galvanic-Battery-in-Medicine-and-Surgery-A-Discourse-Delivered-Before-the-Hunter__59543
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59543-h/images/cover.jpg
 creator:
   author:
     agent_name: Tibbits, Herbert
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45590'
     url: http://www.gutenberg.org/2009/agents/45590
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59543#How-to-Use-a-Galvanic-Battery-in-Medicine-and-Surgery-A-Discourse-Delivered-Before-the-Hunter_
 gutenberg_issued: '2019-05-18'
 gutenberg_type: Text
 identifiers:
